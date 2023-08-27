@@ -1,0 +1,11 @@
+---
+export type Props = {
+	title: string;
+	path: string;
+}
+
+const { title, path } = Astro.props;
+---
+<a class="bg-black shadow-xl shadow-pink-500/20 h-[10rem] flex flex-col justify-center items-center border border-gray-600 hover:bg-neutral-950 hover:shadow-pink-500/40" href={path}>
+	<p>{title}</p>
+</a>

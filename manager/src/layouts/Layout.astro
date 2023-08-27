@@ -1,0 +1,43 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="de" class="scroll-smooth">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Astro description" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<!-- <meta name="generator" content={Astro.generator} /> -->
+		<title>the-archives</title>
+	</head>
+	<body class="pb-10">
+		<slot />
+
+		<!-- <footer class="text-center text-base text-gray-600">
+			<div class="max-w-7xl mx-auto py-8 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
+				<div class="mt-8 md:mt-0 md:order-1">
+					<p>&copy; {new Date().getFullYear()} the-archives</p>
+				</div>
+
+				<div class="mt-8 md:mt-0 md:order-1">
+					<a href="https://slowlydev.vercel.app">Slowlydev Website</a>
+				</div>
+
+				<div class="mt-8 md:mt-0 md:order-1">
+					<a href="https://github.com/Slowlydev/the-archives">Github</a>
+				</div>
+			</div>
+		</footer> -->
+	</body>
+</html>
+
+<style is:global>
+	html {
+		font-family: system-ui, sans-serif;
+		@apply bg-black text-white;
+	}
+	code {
+		font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+	}
+</style>

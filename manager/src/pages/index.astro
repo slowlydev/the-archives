@@ -1,0 +1,25 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+
+---
+<Layout>
+	<main class="container mx-auto px-8">
+		<div class="flex flex-col items-center justify-center h-[30rem] sm:h-[50rem]">
+			<div class="flex flex-col items-center justify-center text-center">
+				<h1 class="text-4xl font-black">welcome to <span class="shadow-pink-500/20 drop-shadow-xl">the archives</span></h1>
+				<p>its a place where all kinds of projects slumber that have been retired</p>
+				<p>a website created and maintained by <a class="text-pink-500 underline" href="https://slowlydev.vercel.app">Slowlydev</a></p>
+				<p class="text-gray-600 text-md">I also have more/other working/active websites/tools, check then on my portfolio</p>
+			</div>
+		</div>
+	
+		<div class="grid grid-cols-1 gap-4 sm:grid-cols-3">
+			<Card title="Websites" path="/websites" />
+	
+			<Card title="School" path="/school" />
+	
+			<Card title="Other" path="/other" />
+		</div>
+	</main>
+</Layout>

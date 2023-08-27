@@ -1,0 +1,58 @@
+---
+import type { CollectionEntry } from "astro:content";
+import Layout from "./Layout.astro";
+
+type Props = CollectionEntry<"other">["data"] & {
+	collection: string;
+	slug: string
+};
+
+const { title, description, creationDate, archivalDate, collection, technologies, slug } = Astro.props;
+
+const archiveRepo = `https://github.com/Slowlydev/the-archvies/tree/main/${collection}/${slug}/`
+---
+
+<Layout>
+	<main class="container mx-auto px-8">
+		<div class="flex flex-col items-center justify-center h-[30rem]">
+			<div class="flex flex-col items-center justify-center text-center">
+				<h1 class="text-4xl font-black">{title}</h1>
+				<p>{description}</p>
+				<a class="text-pink-500 underline" href={`/${collection}`}>{"<"} back to {collection}</a>
+			
+				<p class="text-gray-600 text-md mt-4">Finished main development on: {new Date(creationDate).toLocaleDateString()}</p>
+				<p class="text-gray-600 text-md">Archived on: {new Date(archivalDate).toLocaleDateString()}</p>
+
+				<a class="text-pink-500 underline mt-4" target="_blank" href={archiveRepo}>{`the-archives/${slug}`}</a>
+
+				<div class="flex gap-2 flex-row mt-4">
+					{technologies.map((tech) => (
+						<p class="text-pink-400 bg-pink-500 bg-opacity-30 py-0.5 px-2 rounded-lg text-sm">{tech}</p>
+					))}
+				</div>
+			</div>
+		</div>
+
+		<article>
+			<slot />
+		</article>
+	</main>
+</Layout>
+
+<style lang="scss" is:global>
+	article {
+		@apply flex flex-col gap-2;
+
+		h1 {
+			@apply text-3xl font-black;
+		}
+
+		h2 {
+			@apply text-2xl font-black;
+		}
+
+		h3 {
+			@apply text-xl font-black;
+		}
+	}
+</style>

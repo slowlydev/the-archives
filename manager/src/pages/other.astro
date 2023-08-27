@@ -1,0 +1,42 @@
+---
+import { getCollection } from "astro:content";
+
+import Layout from "../layouts/Layout.astro";
+
+const otherProjects = await getCollection('other');
+---
+<Layout>
+	<main class="container mx-auto px-8">
+		<div class="flex flex-col items-center justify-center h-[30rem]">
+			<div class="flex flex-col items-center justify-center text-center">
+				<h1 class="text-4xl font-black">other</h1>
+				<p>mostly projects that arren't websites...</p>
+				<a class="text-pink-500 underline" href="/">{"<"} back</a>
+			</div>
+		</div>
+	
+		<ul class="flex flex-col divide-y divide-gray-600">
+			{otherProjects.map((project) => (
+				<li class="py-3">
+					<a href={`${project.collection}/${project.slug}`} class="flex gap-2 flex-col">
+						<div>
+							<div class="flex gap-2">
+							<p class="text-lg font-medium leading-none">{project.data.title}</p>
+							<p class="text-gray-600 text-sm">{project.data.description}</p>
+							</div>
+							
+							<div>
+								<p class="text-gray-600 text-sm">{new Date(project.data.creationDate).toDateString()}</p>
+							</div>
+						</div>
+						<div class="flex gap-2 flex-row">
+							{project.data.technologies.map((tech) => (
+								<p class="text-pink-400 bg-pink-500 bg-opacity-30 py-0.5 px-2 rounded-lg text-sm">{tech}</p>
+							))}
+						</div>
+					</a>
+				</li>
+			))}
+		</ul>
+	</main>
+</Layout>
