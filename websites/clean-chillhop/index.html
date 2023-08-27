@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<script>
+		// If `prefers-color-scheme` is not supported, fall back to light mode.
+		// In this case, light.css will be downloaded with `highest` priority.
+		if (window.matchMedia('(prefers-color-scheme: dark)').media === 'not all') {
+		  document.documentElement.style.display = 'none';
+		  document.head.insertAdjacentHTML(
+			  'beforeend',
+			  '<link rel="stylesheet" href="/light.css" onload="document.documentElement.style.display = \'\'">'
+		  );
+		}
+	</script>
+  	<head>
+		<title>Chillhop</title>
+		<meta charset="UTF-8">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+		<meta name="apple-mobile-web-app-title" content="Chillhop">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<link rel="icon" type="image/png" href="/resources/icon/one.png">
+
+		<link rel="apple-touch-icon" href="/resources/icon/one.png">
+
+		<!-- Dark / Light Mode stylesheet -->
+		<link rel="stylesheet" href="/resources/style.css" media="(prefers-color-scheme: dark)">
+		<link rel="stylesheet" href="/resources/light.css" media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)">
+		
+		<!-- The main stylesheet -->
+		<link rel="stylesheet" href="/resources/style.css">
+	</head>
+	<body>
+		<h1>Choose a Chillhop Music Livestream</h1>
+		<p>Just Click one of these Buttons</p>
+
+		<p>&nbsp;</p>
+		
+		<p><a href="./radio/chillhop.html">Chillhop Radio 🐾</a></p>
+		<p><a href="./radio/lofihiphop.html">Lofi hip hop Radio 🔊</a></p>
+
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+
+		<p>Made by</p>
+		<p><a href="https://www.youtube.com/channel/UCvUMTI8Egk6PUXybS2lr7Ww">Sl0wly edits</a></p>
+	</body>
+</html>

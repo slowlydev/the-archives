@@ -1,0 +1,31 @@
+{
+    "levels": {
+        "l1": [
+            {
+                "time": "0:00.10",
+                "username": "Slowlydev"
+            }
+        ],
+        "l2": [
+            {
+                "time": "0:00.20",
+                "username": "Slowlydev"
+            }
+        ],
+        "l3": [
+            {
+                "time": "0:00.30",
+                "username": "Slowlydev"
+            }
+        ]
+    },
+    "info": {
+        "msg":"Level 2 released!",
+        "changelog":{
+            "dasdwasd": {
+                "msg":"Level 2 released!",
+                "date":"09.06.2021"
+            }
+        }
+    }
+}

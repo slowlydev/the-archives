@@ -1,0 +1,14 @@
+.album-img img {
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px grey;
+}
+
+.ios-img img {
+    max-height: 35vh;
+    overflow: hidden;
+}
+
+.ios-card {
+    box-shadow: 0px 2px 15px grey;
+}
+  

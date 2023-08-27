@@ -1,0 +1,940 @@
+[
+    {
+        "name":"Chevrolet C10 Stepside Pickup '65",
+        "money":"18.000",
+        "class":"100",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/1d/NFSHE_Chevrolet_C10PickupStepside_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108132441&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"Volkswagen Beetle '63",
+        "money":"18.000",
+        "class":"100",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/0/00/NFSHE_Volkswagen_Beetle_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108134137&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"Volvo Amazon P130 '70",
+        "money":"19.000",
+        "class":"100",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/8/87/NFSHE_Volvo_Amazon_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108134139&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Chevrolet Bel Air '55",
+        "money":"22.500",
+        "class":"101",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/51/NFSHE_Chevrolet_BelAir_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108132441&path-prefix=en",
+        "tuning":"8"
+    },
+    {
+        "name":"Ford Mustang '65",
+        "money":"23.500",
+        "class":"101",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/46/NFSHE_Ford_Mustang_65_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108132653&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Volvo 242DL '75",
+        "money":"24.000",
+        "class":"100",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/59/NFSHE_Volvo_242DL_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108134138&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Nissan Skyline 2000 GT-R '71",
+        "money":"27.000",
+        "class":"103",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/0/08/NFSHE_Nissan_GTRSkylineKPGC10_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108133825&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Volkswagen Golf GTI '76",
+        "money":"27.000",
+        "class":"101",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/d1/NFSHE_Volkswagen_GolfGTI_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108134138&path-prefix=en",
+        "tuning":"8"
+    },
+    {
+        "name":"Pontiac Firebird ‘77",
+        "money":"27.500",
+        "class":"103",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/3/3b/NFSHE_Pontiac_TransAm_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108133828&path-prefix=en",
+        "tuning":"10"
+    },
+    {
+        "name":"Nissan Fairlady 240 ZG’71",
+        "money":"28.000",
+        "class":"104",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/1d/NFSHE_Nissan_Fairlady240ZG_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108133824&path-prefix=en",
+        "tuning":"9"
+    },
+    {
+        "name":"Plymouth Barracuda ‘70",
+        "money":"29.000",
+        "class":"127",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/6a/NFSHE_Plymouth_Barracuda_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108133827&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Chevrolet Camaro SS ’67",
+        "money":"29.000",
+        "class":"109",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/7/7e/NFSHE_Chevrolet_CamaroSS_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108132442&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Ford Mustang BOSS 203’69",
+        "money":"31.000",
+        "class":"111",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/ee/NFSHE_Ford_MustangBoss302_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108132654&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Mazda MX-5 ‘69",
+        "money":"31.000",
+        "class":"103",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/16/NFSHE_Mazda_MX5_96_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132933&path-prefix=en",
+        "tuning":"8"
+    },
+    {
+        "name":"Mazda MX-5 ‘15",
+        "money":"31.500",
+        "class":"111",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/d2/NFSHE_Mazda_MX5_15_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132933&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Ford Mustang Foxbody ‘90",
+        "money":"32.500",
+        "class":"116",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/10/NFSHE_Ford_MustangFoxbody_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132654&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Mercury Cougar ‘67",
+        "money":"33.500",
+        "class":"116",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/4b/NFSHE_Mercury_Cougar_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133313&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Acura RSX-S ‘04",
+        "money":"34.000",
+        "class":"105",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/40/NFSHE_Acura_RSXS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131736&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Subaru BRZ Premium ‘14",
+        "money":"36.000",
+        "class":"116",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/9/9a/NFSHE_Subaru_BRZ_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134136&path-prefix=en",
+        "tuning":"10"
+    },
+    {
+        "name":"Chevrolet Colorado ZR2 ‘17",
+        "money":"37.000",
+        "class":"104",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/da/NFSHE_Chevrolet_ColoradoZR2_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132443&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Buick Grand National ‘87",
+        "money":"39.000",
+        "class":"114",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/d4/NFSHE_Buick_GrandNational_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132441&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Mini JCW Countryman ‘17",
+        "money":"40.500",
+        "class":"117",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/3/31/NFSHE_Mini_CountrymanJCW_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133313&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Dodge Charger ‘69",
+        "money":"41.500",
+        "class":"127",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/6c/NFSHE_Dodge_Charger_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132446&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"Honda Civic Type-R ‘00",
+        "money":"42.500",
+        "class":"111",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/7/7e/NFSHE_Honda_CivicTypeR_00_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132655&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Nissan 180SX Type X ‘96",
+        "money":"43.500",
+        "class":"125",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/7/70/NFSHE_Nissan_180sxTypeX_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133316&path-prefix=en",
+        "tuning":"10"
+    },
+    {
+        "name":"Nissan Silvia Spec-R Aero ‘02",
+        "money":"45.000",
+        "class":"139",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/8/8f/NFSHE_Nissan_SilviaSpecR_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133825&path-prefix=en",
+        "tuning":"10"
+    },
+    {
+        "name":"Honda S2000 ‘09",
+        "money":"47.500",
+        "class":"125",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/59/NFSHE_Honda_S2000UltimateEdition_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132656&path-prefix=en",
+        "tuning":"9"
+    },
+    {
+        "name":"Mitsubishi Lancer Evolution X ‘08",
+        "money":"48.000",
+        "class":"132",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/4c/NFSHE_Mitsubishi_EvolutionX_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133314&path-prefix=en",
+        "tuning":"10"
+    },
+    {
+        "name":"Mitsubishi Lancer Evo K.S. ‘08",
+        "money":"0",
+        "class":"132",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/c/c1/NFSHE_Mitsubishi_EvolutionX_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133314&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Mitsubishi Lancer Evo K.S. ‘08",
+        "money":"0",
+        "class":"132",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/fc/NFSHE_Mitsubishi_EvolutionX_KS_PC_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133315&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Subaru Impreza WRX STI ’10",
+        "money":"50.500",
+        "class":"139",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/8/87/NFSHE_Subaru_ImprezaWRXSTI10_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134137&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Nissan 350Z L.E. ‘03",
+        "money":"51.000",
+        "class":"143",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/20/NFSHE_Nissan_350Z_LE_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133317&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Land Rover Defender 110 ‘15",
+        "money":"51.500",
+        "class":"100",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/9/98/NFSHE_LandRover_Defender110_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132931&path-prefix=en",
+        "tuning":"3"
+    },
+    {
+        "name":"Volkswagen Golf GTI Clubsport ‘16",
+        "money":"51.500",
+        "class":"133",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/8/83/NFSHE_Volkswagen_GolfGTIClubsport_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134138&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Subaru Impreza WRX STI ’6",
+        "money":"52.000",
+        "class":"135",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/4b/NFSHE_Subaru_ImprezaWRXSTI06_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134136&path-prefix=en",
+        "tuning":"10"
+    },
+    {
+        "name":"BMW M3 Evolution II ‘88",
+        "money":"53.000",
+        "class":"123",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/18/NFSHE_BMW_M3E30Evo2_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131741&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Nissan 370Z Heritage Edition ‘19",
+        "money":"53.500",
+        "class":"159",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/60/NFSHE_Nissan_370Z_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133823&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Nissan 370Z Redbull Edition ‘19",
+        "money":"?",
+        "class":"?",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/c/c0/NFSHE_Nissan_370Z_RedBull_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191212213620&path-prefix=en",
+        "tuning":"?"
+    },
+    {
+        "name":"Ford F-150 Raptor’17",
+        "money":"54.00",
+        "class":"123",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/fc/NFSHE_Ford_F150Raptor_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132652&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Nissan 350Z ‘08",
+        "money":"55.000",
+        "class":"150",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/22/NFSHE_Nissan_350Z_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133317&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Ford Focus RS’16",
+        "money":"56.500",
+        "class":"157",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/dc/NFSHE_Ford_FocusRS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132652&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Honda Civic Type-R ‘15",
+        "money":"56.500",
+        "class":"152",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/16/NFSHE_Honda_CivicTypeR_15_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132655&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Mazda RX-7 Spirit R ‘02",
+        "money":"59.500",
+        "class":"144",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/c/c9/NFSHE_Mazda_RX7SpiritR_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132934&path-prefix=en",
+        "tuning":"9"
+    },
+    {
+        "name":"Ford Mustang GT ‘15",
+        "money":"66.500",
+        "class":"192",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/64/NFSHE_Ford_MustangGT_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132654&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Mercedes-AMG A 45 ‘16",
+        "money":"69.500",
+        "class":"169",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/48/NFSHE_MercedesBenz_AMGA45_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133309&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"BMW M3 ’06",
+        "money":"70.000",
+        "class":"167",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/4e/NFSHE_BMW_M3E46_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131742&path-prefix=en",
+        "tuning":"8"
+    },
+    {
+        "name":"Audi S5 Sportback ‘17",
+        "money":"70.500",
+        "class":"168",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/9/95/NFSHE_Audi_S5_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131739&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Infiniti Q60 S ’17",
+        "money":"71.500",
+        "class":"170",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/0/00/NFSHE_Infiniti_Q60S_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132656&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"Dodge Challenger SRT8 ‘14",
+        "money":"72.000",
+        "class":"185",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/64/NFSHE_Dodge_ChallengerSRT_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132445&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Nissan Skyline GT-R V-Spec ‘93",
+        "money":"72.000",
+        "class":"131",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/7/77/NFSHE_Nissan_SkylineGTRVSpecR32_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133826&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"Mitsubishi Lancer Evolution IX ‘07",
+        "money":"72.500",
+        "class":"191",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/c/c1/NFSHE_Mitsubishi_EvolutionMR_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133313&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Nissan Skyline GT-R V-Spec ‘99",
+        "money":"73.000",
+        "class":"139",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/2f/NFSHE_Nissan_SkylineGTRVspecR34_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133826&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Ford F-150 Raptor L.E. ‘17",
+        "money":"73.000",
+        "class":"136",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/26/NFSHE_Ford_F150Raptor_LE_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132652&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Nissan Skyline GT-R L.E. ‘02",
+        "money":"73.000",
+        "class":"139",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/3/3a/NFSHE_Nissan_SkylineGTRVSpecR34_LE_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133826&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Lotus Exige S ‘06",
+        "money":"74.000",
+        "class":"144",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/9/94/NFSHE_Lotus_ExigeS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132932&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"BMW M3 ‘10",
+        "money":"84.000",
+        "class":"181",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/f3/NFSHE_BMW_M3E92Coupe_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131743&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"Porsche 911 Carrera RSR 2.8 ‘73",
+        "money":"86.000",
+        "class":"188",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/0/02/NFSHE_Porsche_911CarreraRSR_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133829&path-prefix=en",
+        "tuning":"8"
+    },
+    {
+        "name":"BMW M4 ‘18",
+        "money":"87.500",
+        "class":"206",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/ed/NFSHE_BMW_M4_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131743&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Mercedes-AMG C 63 Coupé ‘18",
+        "money":"89.000",
+        "class":"210",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/6c/NFSHE_MercedesBenz_C63AMG_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133312&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Mercedes-AMG C 63 Coupé K.S. ‘18",
+        "money":"0",
+        "class":"210",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/54/NFSHE_MercedesBenz_C63AMG_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133312&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"BMW M4 Convertible ‘17",
+        "money":"90.000",
+        "class":"191",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/a/a2/NFSHE_BMW_M4Convertible_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131744&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Chevrolet Corvette Grand Sport K.S.",
+        "money":"0",
+        "class":"233",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/6e/NFSHE_Chevrolet_CorvetteGS_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132444&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Porsche 718 Cayman GTS ‘18",
+        "money":"91.000",
+        "class":"187",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/53/NFSHE_Porsche_718CaymanGTS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133829&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Chevrolet Corvette Grand Sport ‘17",
+        "money":"91.000",
+        "class":"233",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/15/NFSHE_Chevrolet_CorvetteGS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132444&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Aston Martin DB5 ‘64",
+        "money":"92.000",
+        "class":"113",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/13/NFSHE_AstonMartin_DB5_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131737&path-prefix=en",
+        "tuning":"10"
+    },
+    {
+        "name":"Chevrolet Camaro Z28 ‘14",
+        "money":"93.000",
+        "class":"206",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/d9/NFSHE_Chevrolet_CamaroZ28_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132443&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Porsche 911 Carrera S ‘97",
+        "money":"94.000",
+        "class":"147",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/66/NFSHE_Porsche_911CarreraS993_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133829&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Giulia Quadrifoglio ‘16",
+        "money":"95.500",
+        "class":"227",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/a/a5/NFSHE_AlfaRomeo_GiuliaQV_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131737&path-prefix=en",
+        "tuning":"8"
+    },
+    {
+        "name":"Honda NSX Type-R ‘92",
+        "money":"96.500",
+        "class":"152",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/c/c4/NFSHE_Honda_NSXTypeR_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132655&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Jaguar F-Type R Convertible ‘19",
+        "money":"103.500",
+        "class":"229",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/45/NFSHE_Jaguar_FTypeRConvertible_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132657&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"BMW M2 Competition ‘19",
+        "money":"104.000",
+        "class":"192",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/15/NFSHE_BMW_M2Competition_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131741&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Chevrolet Corvette Z06 ‘13",
+        "money":"106.500",
+        "class":"252",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/a/a3/NFSHE_Chevrolet_CorvetteZ06_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132444&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Land Rover Range Rover Sport SVR ‘15",
+        "money":"107.000",
+        "class":"165",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/3/3c/NFSHE_LandRover_RangeRoverSport_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132932&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"BMW X6 M ’16",
+        "money":"107.500",
+        "class":"188",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/23/NFSHE_BMW_X6M_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132440&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"BMW Z4 M40i ‘19",
+        "money":"108.500",
+        "class":"165",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/7/74/NFSHE_BMW_Z4M40i_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132440&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"BMW M5 ‘18",
+        "money":"110.500",
+        "class":"242",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/d5/NFSHE_BMW_M5_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131745&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"Mercedes-AMG G 63 ‘17",
+        "money":"111.500",
+        "class":"132",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/de/NFSHE_MercedesBenz_AMGG63_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133310&path-prefix=en",
+        "tuning":"3"
+    },
+    {
+        "name":"Jaguar F-Type R Coupe ‘16",
+        "money":"116.500",
+        "class":"241",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/8/84/NFSHE_Jaguar_FTypeRCoupe_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132657&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Mercedes-AMG GT ‘15",
+        "money":"117.500",
+        "class":"226",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/f8/NFSHE_MercedesBenz_AMGGT_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133311&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"SRT Viper GTS ‘14",
+        "money":"121.500",
+        "class":"283",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/7/79/NFSHE_SRT_ViperGTS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134136&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Nissan GT-R Premium ‘17",
+        "money":"122.000",
+        "class":"248",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/57/NFSHE_Nissan_GTR_Premium_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133824&path-prefix=en",
+        "tuning":"10"
+    },
+    {
+        "name":"Porsche 911 Carrera GTS ‘18",
+        "money":"127.500",
+        "class":"244",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/fa/NFSHE_Porsche_9912GTS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134134&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Porsche 911 Carrera GTS Cabriolet ‘18",
+        "money":"132.000",
+        "class":"235",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/6a/NFSHE_Porsche_9912GTSConvertible_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134134&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"BMW i8 Coupé ‘18",
+        "money":"133.000",
+        "class":"193",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/a/ac/NFSHE_BMW_i8_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131740&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"BMW i8 Coupé K.S. ‘18",
+        "money":"0",
+        "class":"193",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/53/NFSHE_BMW_i8_2018_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131739&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Mercedes-AMG GT S Roadster ‘19",
+        "money":"133.500",
+        "class":"243",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/7/7b/NFSHE_MercedesBenz_AMGGTSRoadster_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133311&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Porsche 911 Targa 4 GTS ‘18",
+        "money":"135.500",
+        "class":"233",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/2d/NFSHE_Porsche_9912GTSTarga_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134134&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Porsche Panamera Turbo ‘17",
+        "money":"137.500",
+        "class":"218",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/51/NFSHE_Porsche_Panamera_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134135&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"BMW i8 Roadster ‘18",
+        "money":"138.500",
+        "class":"183",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/3/3f/NFSHE_BMW_i8Roadster_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131740&path-prefix=en",
+        "tuning":"6"
+    },
+    {
+        "name":"Chevrolet Corvette ZR1 ‘19",
+        "money":"151.500",
+        "class":"315",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/e7/NFSHE_Chevrolet_CorvetteZR1_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132445&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Aston Martin DB11 ‘17",
+        "money":"151.500",
+        "class":"249",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/0/06/NFSHE_AstonMartin_DB11_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131738&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Acura NSX ‘17",
+        "money":"152.000",
+        "class":"250",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/a/ad/NFSHE_Acura_NSX_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131736&path-prefix=en",
+        "tuning":"8"
+    },
+    {
+        "name":"Mercedes-AMG GT R ‘17",
+        "money":"155.500",
+        "class":"270",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/b/b6/NFSHE_MercedesBenz_AMGGTR_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133311&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Polestar 1 ‘20",
+        "money":"162.000",
+        "class":"247",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/9/9f/NFSHE_Polestar_1_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133827&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Porsche 911 GT3 RS ‘19",
+        "money":"172.000",
+        "class":"260",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/9/98/NFSHE_Porsche_9912GT3RS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134133&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Porsche 911 Turbo S Exclusive ‘18",
+        "money":"179.000",
+        "class":"285",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/1e/NFSHE_Porsche_991TurboS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134132&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Audi R8 V10 Performance ‘19",
+        "money":"181.000",
+        "class":"285",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/db/NFSHE_Audi_R8V10_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131739&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"McLaren 570S ‘15",
+        "money":"181.000",
+        "class":"291",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/19/NFSHE_McLaren_570S_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132934&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Porsche 911 Turbo S Cabriolet Ex ‘18",
+        "money":"183.000",
+        "class":"278",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/d4/NFSHE_Porsche_991TurboSConvertible_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134133&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Lamborghini Huracan ‘18",
+        "money":"183.500",
+        "class":"271",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/2a/NFSHE_Lamborghini_HuracanLP580_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132929&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"McLaren 570S Spider ‘18",
+        "money":"",
+        "class":"282",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/e1/NFSHE_McLaren_570SSpyder_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132934&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"BMW M3 GTR L.E. ‘06",
+        "money":"202.000",
+        "class":"174",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/e1/NFSHE_BMW_M3E46GTR_LE_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131742&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Ferrari 458 Italia ‘09",
+        "money":"208.000",
+        "class":"282",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/9/98/NFSHE_Ferrari_458Italia_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132446&path-prefix=en",
+        "tuning":"3"
+    },
+    {
+        "name":"Lamborghini Countach ‘89",
+        "money":"216.500",
+        "class":"208",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/e8/NFSHE_Lamborghini_Countach_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132928&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Ferrari 458 Spider ‘11",
+        "money":"219.500",
+        "class":"274",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/9/99/NFSHE_Ferrari_458Spider_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132446&path-prefix=en",
+        "tuning":"3"
+    },
+    {
+        "name":"Lamborghini Huracan Spyder ‘18",
+        "money":"220.000",
+        "class":"273",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/1c/NFSHE_Lamborghini_HuracanLP610Spyder_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132930&path-prefix=en",
+        "tuning":"7"
+    },
+    {
+        "name":"Ferrari 488 GTB ‘15",
+        "money":"224.500",
+        "class":"304",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/0/09/NFSHE_Ferrari_488GTB_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132447&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Lamborghini Huracan Performante ‘18",
+        "money":"232.000",
+        "class":"295",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/d/d7/NFSHE_Lamborghini_HuracanPerformante_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132930&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Porsche 911 GT2 RS ‘18",
+        "money":"246.500",
+        "class":"313",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/8/8c/NFSHE_Porsche_991GT2RS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134132&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Ferrari Testarossa Coupé ‘84",
+        "money":"254.500",
+        "class":"165",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/68/NFSHE_Ferrari_Testarossa_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132651&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Lamborghini Diablo SV ‘95",
+        "money":"284.500",
+        "class":"252",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/7/73/NFSHE_Lamborghini_DiabloSuperVeloce_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132929&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Lamborghini Aventador S Roadster ‘17",
+        "money":"322.000",
+        "class":"317",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/0/06/NFSHE_Lamborghini_AventadorLP7404SRoadster_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132927&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Lamborghini Murciélago SV ‘10",
+        "money":"335.500",
+        "class":"294",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/45/NFSHE_Lamborghini_MurcielagoSV_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132931&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Ford Gt ‘17",
+        "money":"342.500",
+        "class":"327",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/e4/NFSHE_Ford_GT_Dealership.jpg/revision/latest/scale-to-width-down/1332?cb=20191108132653&path-prefix=en",
+        "tuning":"5"
+    },
+    {
+        "name":"Lamborghini Aventador S ‘18",
+        "money":"346.000",
+        "class":"321",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/9/92/NFSHE_Lamborghini_AventadorLP7404S_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132658&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Lamborghini Aventador SVJ Roadster ‘19",
+        "money":"382.500",
+        "class":"325",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/25/NFSHE_Lamborghini_AventadorSVJRoadster_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132928&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Lamborghini SVJ Coupe ‘19",
+        "money":"384.000",
+        "class":"331",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/fa/NFSHE_Lamborghini_AventadorSVJ_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132928&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Ferrari F40 ‘87",
+        "money":"547.000",
+        "class":"266",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/4/41/NFSHE_Ferrari_F40_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132448&path-prefix=en",
+        "tuning":"3"
+    },
+    {
+        "name":"Porsche 918 Spyder ‘15",
+        "money":"591.500",
+        "class":"341",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/f0/NFSHE_Porsche_918Spyder_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133830&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"McLaren P1 ‘14",
+        "money":"776.500",
+        "class":"346",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/c/cb/NFSHE_Mclaren_P1_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132935&path-prefix=en",
+        "tuning":"3"
+    },
+    {
+        "name":"Ferrari LaFerrari ‘13",
+        "money":"1.104.500",
+        "class":"360",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/a/af/NFSHE_Ferrari_LaFerrari_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132651&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Koenigsegg Regera ‘16",
+        "money":"1.227.500",
+        "class":"400+",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/b/b3/NFSHE_Koenigsegg_Regera_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132658&path-prefix=en",
+        "tuning":"3"
+    },
+    {
+        "name":"Polestar 1 Hero Edition ‘20",
+        "money":"1.461.925",
+        "class":"328",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/b/b4/NFSHE_Polestar_1_Hero_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133828&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Aston Martin Vulcan ‘16",
+        "money":"1.467.000",
+        "class":"314",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/0/00/NFSHE_AstonMartin_Vulcan_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131738&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"Pagani Huayra BC ‘17",
+        "money":"1.574.000",
+        "class":"338",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/7/7d/NFSHE_Pagani_HuayraBC_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133827&path-prefix=en",
+        "tuning":"4"
+    },
+    {
+        "name":"McLaren P1 GTR ‘15",
+        "money":"2.120.500",
+        "class":"363",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/0/05/NFSHE_McLaren_P1GTR_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133308&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Nissan GTR Nismo ‘15",
+        "money":"",
+        "class":"164",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/1/1c/NFSHE_Nissan_370ZNismo_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133823&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"BMW M4 GTS ‘16",
+        "money":"95,500",
+        "class":"241",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/2e/NFSHE_BMW_M4GTS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131744&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Porsche Cayman GT4 ‘15",
+        "money":"",
+        "class":"208",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/f8/NFSHE_Porsche_CaymanGT4_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108134135&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Nissan GT-R Nismo ‘17",
+        "money":"165,000",
+        "class":"266",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/e9/NFSHE_Nissan_GTRNismo_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133824&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"McLaren 600LT ‘18",
+        "money":"212,500",
+        "class":"304",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/b/bd/NFSHE_McLaren_600LT_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132935&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Lamborghini Huracan Performante Spyder ‘18",
+        "money":"251,000",
+        "class":"282",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/8/83/NFSHE_Lamborghini_HuracanPerformanteSpyder_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132931&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Ferrari 488 Pista ‘19",
+        "money":"",
+        "class":"326",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/a/a8/NFSHE_Ferrari_488Pista_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132447&path-prefix=en",
+        "tuning":"2"
+    },
+    {
+        "name":"Ferrari FXX-K Evo ‘18",
+        "money":"2.177.500",
+        "class":"363",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/ec/NFSHE_Ferrari_FXXKEvo_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132650&path-prefix=en",
+        "tuning":"2"
+    }
+]

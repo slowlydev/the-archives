@@ -1,0 +1,24 @@
+{
+  "name": "slowly-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "next.config.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-sass": "latest",
+    "framer-motion": "^1.11.1",
+    "isomorphic-unfetch": "latest",
+    "next": "latest",
+    "node-sass": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-intersection-observer": "^8.26.2"
+  }
+}

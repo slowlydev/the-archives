@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<script>
+		// If `prefers-color-scheme` is not supported, fall back to light mode.
+		// In this case, light.css will be downloaded with `highest` priority.
+		if (window.matchMedia('(prefers-color-scheme: dark)').media === 'not all') {
+		  document.documentElement.style.display = 'none';
+		  document.head.insertAdjacentHTML(
+			  'beforeend',
+			  '<link rel="stylesheet" href="/light.css" onload="document.documentElement.style.display = \'\'">'
+		  );
+		}
+	</script>
+    <head>
+        <title>Lofi Hip Hop Radio</title>
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+		<meta name="apple-mobile-web-app-title" content="Chillhop">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<link rel="icon" type="image/png" href="/resources/icon/one.png">
+
+		<link rel="apple-touch-icon" href="/resources/icon/one.png">
+
+		<!-- Dark / Light Mode stylesheet -->
+		<link rel="stylesheet" href="/resources/style.css" media="(prefers-color-scheme: dark)">
+		<link rel="stylesheet" href="/resources/light.css" media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)">
+				
+		<!-- The main stylesheet -->
+		<link rel="stylesheet" href="/resources/style.css">
+    </head>
+    <body>
+        <h1>Chillhop Radio Livestream</h1>
+        <p>A Music Livestream to study / relax to</p>
+
+        <p><a href="../index.html">Go back to main Site</a></p>
+
+        <div style="text-align: center;"><iframe width="1280" height="720" src="https://www.youtube.com/embed/7NOSDKb0HlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+    </body>
+</html>

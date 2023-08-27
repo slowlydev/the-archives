@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Mitsubishi Lancer Evo K.S. ‘08",
+        "money":"0",
+        "class":"132",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/c/c1/NFSHE_Mitsubishi_EvolutionX_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133314&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Mitsubishi Lancer Evo K.S. ‘08",
+        "money":"0",
+        "class":"132",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/fc/NFSHE_Mitsubishi_EvolutionX_KS_PC_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133315&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Mercedes-AMG C 63 Coupé K.S. ‘18",
+        "money":"0",
+        "class":"210",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/54/NFSHE_MercedesBenz_C63AMG_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133312&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Chevrolet Corvette Grand Sport K.S.",
+        "money":"0",
+        "class":"233",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/6e/NFSHE_Chevrolet_CorvetteGS_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132444&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"BMW i8 Coupé K.S. ‘18",
+        "money":"0",
+        "class":"193",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/53/NFSHE_BMW_i8_2018_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131739&path-prefix=en",
+        "tuning":"0"
+    }
+]

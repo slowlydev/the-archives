@@ -1,0 +1,16 @@
+{
+    "name": "Shadowy",
+    "short_name": "Shadowy",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f5f5f7",
+    "theme_color": "#f5f5f7",
+    "description": "A 2D Platformer but be fast",
+    "icons": [
+        {
+            "src": "/logo.png",
+            "sizes": "2000x2000",
+            "type": "image/png"
+        }
+    ]
+}

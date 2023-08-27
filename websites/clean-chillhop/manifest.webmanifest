@@ -1,0 +1,38 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "Chillhop",
+	"scope" : "/",
+	"display" : "standalone",
+	"start_url" : "https://chillhop.sl0wlyedits.now.sh/",
+	"short_name" : "Chillhop",
+	"theme_color" : "default",
+	"description" : "Listen to the chillhop livestreams",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : "",
+	"prefer_related_applications" : "false",
+	"icons" : [
+		{
+			"src": "https://chillhop.sl0wlyedits.now.sh/resources/icon/Icon-152x152.png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "https://chillhop.sl0wlyedits.now.sh/resources/icon/Icon-152x152.png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "https://chillhop.sl0wlyedits.now.sh/resources/icon/Icon-152x152.png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "https://chillhop.sl0wlyedits.now.sh/resources/icon/Icon-167x167.png",
+			"sizes": "167x167"
+		},
+		{
+			"src": "https://chillhop.sl0wlyedits.now.sh/resources/icon/Icon-180x180.png",
+			"sizes": "180x180"
+		}],
+	"screenshots" : [],
+	"generated" : "true"
+}

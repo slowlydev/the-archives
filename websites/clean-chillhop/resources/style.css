@@ -1,0 +1,33 @@
+:root {
+    color-scheme: light dark;
+}
+  
+body {
+    background-color: var(--background-color);
+}
+
+h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: var(--h1);
+}
+
+p {
+    font-family: "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    text-align: center;
+    font-size: 20px;
+    color: var(--p);
+    line-height: 1.5;
+}
+
+p span {
+    font-weight: bold;
+    font-size: 24px;
+    color: var(--p-span);
+}
+
+a {
+    text-decoration: none;
+}

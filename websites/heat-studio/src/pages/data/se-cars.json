@@ -1,0 +1,72 @@
+[
+    {
+        "name":"Polestar 1 Hero Edition ‘20",
+        "money":"1.461.925",
+        "class":"328",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/b/b4/NFSHE_Polestar_1_Hero_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133828&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Mitsubishi Lancer Evo K.S. ‘08",
+        "money":"0",
+        "class":"132",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/c/c1/NFSHE_Mitsubishi_EvolutionX_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133314&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Mitsubishi Lancer Evo K.S. ‘08",
+        "money":"0",
+        "class":"132",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/f/fc/NFSHE_Mitsubishi_EvolutionX_KS_PC_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133315&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Mercedes-AMG C 63 Coupé K.S. ‘18",
+        "money":"0",
+        "class":"210",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/54/NFSHE_MercedesBenz_C63AMG_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133312&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Chevrolet Corvette Grand Sport K.S.",
+        "money":"0",
+        "class":"233",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/6/6e/NFSHE_Chevrolet_CorvetteGS_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132444&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"BMW i8 Coupé K.S. ‘18",
+        "money":"0",
+        "class":"193",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/5/53/NFSHE_BMW_i8_2018_KS_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131739&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Nissan 350Z L.E. ‘03",
+        "money":"51.000",
+        "class":"143",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/20/NFSHE_Nissan_350Z_LE_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133317&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Ford F-150 Raptor L.E. ‘17",
+        "money":"73.000",
+        "class":"136",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/2/26/NFSHE_Ford_F150Raptor_LE_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108132652&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"Nissan Skyline GT-R L.E. ‘02",
+        "money":"73.000",
+        "class":"139",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/3/3a/NFSHE_Nissan_SkylineGTRVSpecR34_LE_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108133826&path-prefix=en",
+        "tuning":"0"
+    },
+    {
+        "name":"BMW M3 GTR L.E. ‘06",
+        "money":"202.000",
+        "class":"174",
+        "img":"https://vignette.wikia.nocookie.net/nfs/images/e/e1/NFSHE_BMW_M3E46GTR_LE_Dealership.jpg/revision/latest/scale-to-width-down/86?cb=20191108131742&path-prefix=en",
+        "tuning":"0"
+    }
+]
