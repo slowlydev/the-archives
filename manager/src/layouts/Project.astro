@@ -4,12 +4,12 @@ import Layout from "./Layout.astro";
 
 type Props = CollectionEntry<"other">["data"] & {
 	collection: string;
-	slug: string
+	slug: string;
 };
 
 const { title, description, creationDate, archivalDate, collection, technologies, slug } = Astro.props;
 
-const archiveRepo = `https://github.com/Slowlydev/the-archvies/tree/main/${collection}/${slug}/`
+const archiveRepo = `https://github.com/Slowlydev/the-archives/tree/main/${collection}/${slug}/`;
 ---
 
 <Layout>
@@ -19,16 +19,14 @@ const archiveRepo = `https://github.com/Slowlydev/the-archvies/tree/main/${colle
 				<h1 class="text-4xl font-black">{title}</h1>
 				<p>{description}</p>
 				<a class="text-pink-500 underline" href={`/${collection}`}>{"<"} back to {collection}</a>
-			
+
 				<p class="text-gray-600 text-md mt-4">Finished main development on: {new Date(creationDate).toLocaleDateString()}</p>
 				<p class="text-gray-600 text-md">Archived on: {new Date(archivalDate).toLocaleDateString()}</p>
 
 				<a class="text-pink-500 underline mt-4" target="_blank" href={archiveRepo}>{`the-archives/${slug}`}</a>
 
 				<div class="flex gap-2 flex-row mt-4">
-					{technologies.map((tech) => (
-						<p class="text-pink-400 bg-pink-500 bg-opacity-30 py-0.5 px-2 rounded-lg text-sm">{tech}</p>
-					))}
+					{technologies.map((tech) => <p class="text-pink-400 bg-pink-500 bg-opacity-30 py-0.5 px-2 rounded-lg text-sm">{tech}</p>)}
 				</div>
 			</div>
 		</div>
