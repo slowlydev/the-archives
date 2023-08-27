@@ -1,0 +1,39 @@
+name: test react app
+
+on:
+  push:
+    branches: [main, develop, feature/*, bugfix/*, hotfix/*, refactor/*, dependabot/*]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x, 18.x]
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: use node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: env
+        run: |
+          echo "REACT_APP_PORT=3000" >> .env
+          echo "REACT_APP_STAGE=production" >> .env
+          echo "REACT_APP_BACKEND_URL=http://example.com" >> .env
+
+      - name: install
+        run: yarn
+
+      - name: lint
+        run: yarn lint
+
+      - name: build
+        run: yarn build
+
+      - name: test
+        run: yarn test

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cashyer.OffersPage"
+             Title="OffersPage">
+
+	<Shell.BackButtonBehavior>
+		<BackButtonBehavior TextOverride="Back" />
+	</Shell.BackButtonBehavior>
+
+	<Grid>
+		<Image Source="settings_background.png" Aspect="AspectFill" />
+
+		<ScrollView>
+			<VerticalStackLayout>
+				<FlexLayout Margin="20" Wrap="Wrap" JustifyContent="SpaceAround">
+					<Frame WidthRequest="180" HeightRequest="180" BackgroundColor="White" CornerRadius="20" BorderColor="#00000000" Margin="0,0,0,15">
+						<Image Source="logo_apple.png" HeightRequest="80" />
+					</Frame>
+
+					<Frame WidthRequest="180" HeightRequest="180" BackgroundColor="White" CornerRadius="20" BorderColor="#00000000" Margin="0,0,0,15">
+						<Image Source="logo_swisscom.png" HeightRequest="80" />
+					</Frame>
+
+					<Frame WidthRequest="180" HeightRequest="180" BackgroundColor="White" CornerRadius="20" BorderColor="#00000000" Margin="0,0,0,15">
+						<Image Source="logo_adobe.png" HeightRequest="80" />
+					</Frame>
+
+					<Frame WidthRequest="180" HeightRequest="180" BackgroundColor="White" CornerRadius="20" BorderColor="#00000000" Margin="0,0,0,15">
+						<Image Source="logo_nintendo.png" HeightRequest="80" />
+					</Frame>
+
+					<Frame WidthRequest="180" HeightRequest="180" BackgroundColor="White" CornerRadius="20" BorderColor="#00000000" Margin="0,0,0,15">
+						<Image Source="logo_paysafe.png" HeightRequest="80" />
+					</Frame>
+
+					<Frame WidthRequest="180" HeightRequest="180" BackgroundColor="White" CornerRadius="20" BorderColor="#00000000" Margin="0,0,0,15">
+						<Image Source="logo_xbox.png" HeightRequest="80" />
+					</Frame>
+
+					<Frame WidthRequest="180" HeightRequest="180" BackgroundColor="White" CornerRadius="20" BorderColor="#00000000" Margin="0,0,0,15">
+						<Image Source="logo_google.png" HeightRequest="80" />
+					</Frame>
+
+					<Frame WidthRequest="180" HeightRequest="180" BackgroundColor="White" CornerRadius="20" BorderColor="#00000000" Margin="0,0,0,15">
+						<Image Source="logo_netfilx.png" HeightRequest="80" />
+					</Frame>
+				</FlexLayout>
+
+			</VerticalStackLayout>
+		</ScrollView>
+	</Grid>
+</ContentPage>

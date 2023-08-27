@@ -1,0 +1,10 @@
+node_modules
+reports
+dist
+.idea
+**/*.json
+**/*.md
+coverage/**
+dist/**
+scripts/**
+**/*.sh

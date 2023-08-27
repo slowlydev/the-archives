@@ -1,0 +1,67 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: sony-website
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sony-website
+  namespace: sony-website
+  labels:
+    name: sony-website
+    app: sony-website
+spec:
+  selector:
+    matchLabels:
+      app: sony-website
+  template:
+    metadata:
+      labels:
+        app: sony-website
+    spec:
+      containers:
+        - name: sony-website
+          image: registry.gitlab.com/slowlydev/docker/sony-website:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 3000
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: sony-website-service
+  namespace: sony-website
+  labels:
+    name: sony-website
+spec:
+  selector:
+    app: sony-website
+  type: NodePort
+  ports:
+    - name: http
+      port: 80
+      targetPort: 3000
+
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: sony-website-ingress
+  namespace: sony-website
+  labels:
+    name: sony-website
+spec:
+  ingressClassName: nginx
+  rules:
+    - http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: sony-website-service
+                port:
+                  number: 80

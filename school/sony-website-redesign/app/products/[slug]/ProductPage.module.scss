@@ -1,0 +1,99 @@
+@import "../../../styles/colors.scss";
+
+.backBar {
+	position: fixed;
+	width: 100%;
+
+	.backButton {
+		font-size: 1.5rem;
+		font-weight: 500;
+	}
+}
+
+.mainContent {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+
+	justify-content: space-between;
+
+	gap: 2rem;
+
+	width: 100%;
+
+	.image {
+		width: 38rem;
+		max-width: 90%;
+
+		object-fit: contain;
+	}
+
+	.text {
+		width: 38rem;
+		max-width: 90%;
+
+		button {
+			font-size: 1rem;
+
+			padding: 1rem;
+
+			color: #fff;
+
+			cursor: pointer;
+
+			background-color: $action;
+			border-radius: 0.8rem;
+			border: none;
+		}
+	}
+}
+
+.categoryContainer {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-content: flex-start;
+
+	width: 100%;
+
+	gap: 1rem;
+}
+
+.category {
+	display: flex;
+	flex-direction: column;
+
+	width: 100%;
+	max-width: 39rem;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+
+	gap: 0.5rem;
+
+	padding: 1rem;
+
+	background-color: #fff;
+	border-radius: 1rem;
+
+	box-shadow: 0px 4.5px 3.6px rgba(0, 0, 0, 0.024), 0px 12.5px 10px rgba(0, 0, 0, 0.035), 0px 30.1px 24.1px rgba(0, 0, 0, 0.046),
+		0px 100px 80px rgba(0, 0, 0, 0.07);
+
+	p {
+		margin: 0;
+	}
+}
+
+.spec {
+	display: flex;
+	flex-direction: column;
+
+	p {
+		&:first-of-type {
+			opacity: 0.45;
+		}
+	}
+}

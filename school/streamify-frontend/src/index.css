@@ -1,0 +1,34 @@
+:root {
+	--text-primary: #000000;
+
+	--link-primary: #0000ff;
+
+	--input-border: #dfdfdf;
+
+	--background-primary: #ffffff;
+
+	--button-text-black: #000000;
+	--button-text-white: #ffffff;
+
+	--button-grey: #dfdfdf;
+	--button-grey-hover: #bfbfbf;
+	--button-grey-loading: #dfdfdf;
+
+	--button-blue: #7d9df5;
+	--button-blue-hover: #4d71d3;
+	--button-blue-loading: #dfdfff;
+
+	--validation-error: #df0000;
+
+	--notification-success-label: #57c2a2;
+	--notification-success-body: #b6eada;
+
+	--notification-failure-label: #ee3b3b;
+	--notification-failure-body: #f48484;
+
+	--signin-background-image-desktop: url(/src/assets/images/mountains-large.jpg);
+	--signin-background-image-mobile: url(/src/assets/images/mountains-small.jpg);
+
+	--signup-background-image-desktop: url(/src/assets/images/mountains-large.jpg);
+	--signup-background-image-mobile: url(/src/assets/images/mountains-small.jpg);
+}

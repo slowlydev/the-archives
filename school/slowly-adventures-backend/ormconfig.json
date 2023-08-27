@@ -1,0 +1,13 @@
+{
+  "type": "mysql",
+  "host": "127.0.0.1",
+  "port": 3306,
+  "username": "devel",
+  "password": "devel",
+  "database": "development",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "migrations": ["dist/migrations/**/*{.ts,.js}"],
+  "cli": { "migrationsDir": "src/migrations" },
+  "migrationsRun": false,
+  "synchronize": false
+}

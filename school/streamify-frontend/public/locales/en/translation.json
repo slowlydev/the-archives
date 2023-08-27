@@ -1,0 +1,54 @@
+{
+	"common": {
+		"save": "Save",
+		"post": "Post",
+		"username": "Username",
+		"password": "Password"
+	},
+	"pages": {
+		"signup": {
+			"title": "Signup",
+			"confirm-password": "Confirm password",
+			"button": "Signup",
+			"question": "Already have an account?",
+			"link": "Signin"
+		},
+		"signin": {
+			"title": "Signin",
+			"button": "Signin",
+			"question": "Need an account?",
+			"link": "Signup"
+		}
+	},
+	"notifications": {
+		"type": {
+			"success": "Success",
+			"failure": "Failure"
+		},
+		"signup": {
+			"no-match": "Passwords do not match",
+			"success": "Successfully signed up",
+			"failure": "Failed to sign up"
+		},
+		"signin": {
+			"success": "Successfully signed in",
+			"failure": "Failed to sign in"
+		},
+		"comment": {
+			"success": "Successfully created comment",
+			"failure": "Failed to create comment"
+		}
+	},
+	"form-validation": {
+		"required": "This field is required",
+		"too-short": "Too little characters",
+		"too-long": "Too many characters",
+		"username": "Only letters, numbers and dashes allowed"
+	},
+	"exceptions": {
+		"not-found": {
+			"title": "404 - Not Found",
+			"message": "We are sorry, we couldn't find the page you were looking for."
+		}
+	}
+}

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFrameworks>net7.0-android;net7.0-ios;net7.0-maccatalyst</TargetFrameworks>
+		<TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net7.0-windows10.0.19041.0</TargetFrameworks>
+		<!-- Uncomment to also build the tizen app. You will need to install tizen by following this: https://github.com/Samsung/Tizen.NET -->
+		<!-- <TargetFrameworks>$(TargetFrameworks);net7.0-tizen</TargetFrameworks> -->
+		<OutputType>Exe</OutputType>
+		<RootNamespace>Cashyer</RootNamespace>
+		<UseMaui>true</UseMaui>
+		<SingleProject>true</SingleProject>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<!-- Display name -->
+		<ApplicationTitle>Cashyer</ApplicationTitle>
+		<!-- App Identifier -->
+		<ApplicationId>slowlydevs.test</ApplicationId>
+		<ApplicationIdGuid>c858a75a-0bfe-4cba-8392-7fdf7a5f3686</ApplicationIdGuid>
+		<!-- Versions -->
+		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+		<ApplicationVersion>1</ApplicationVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">11.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'maccatalyst'">13.1</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'android'">21.0</SupportedOSPlatformVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</SupportedOSPlatformVersion>
+		<TargetPlatformMinVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</TargetPlatformMinVersion>
+		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net7.0-ios|AnyCPU'">
+		<CreatePackage>false</CreatePackage>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net7.0-ios|AnyCPU'">
+		<CreatePackage>false</CreatePackage>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- App Icon -->
+		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+	</ItemGroup>
+	<ItemGroup>
+		<None Remove="Resources\Images\Home.png" />
+		<None Remove="Resources\Images\settings-icon.svg" />
+		<None Remove="Resources\Fonts\" />
+		<None Remove="Resources\Fonts\Inter-Black.ttf" />
+		<None Remove="Resources\Fonts\Inter-Bold.ttf" />
+		<None Remove="Resources\Fonts\Inter-ExtraBold.ttf" />
+		<None Remove="Resources\Fonts\Inter-ExtraLight.ttf" />
+		<None Remove="Resources\Fonts\Inter-Light.ttf" />
+		<None Remove="Resources\Fonts\Inter-Medium.ttf" />
+		<None Remove="Resources\Fonts\Inter-Regular.ttf" />
+		<None Remove="Resources\Fonts\Inter-SemiBold.ttf" />
+		<None Remove="Resources\Fonts\Inter-Thin.ttf" />
+		<None Remove="Resources\Fonts\JetBrainsMono-Bold.ttf" />
+		<None Remove="Resources\Fonts\JetBrainsMono-ExtraBold.ttf" />
+		<None Remove="Resources\Fonts\JetBrainsMono-ExtraLight.ttf" />
+		<None Remove="Resources\Fonts\JetBrainsMono-Light.ttf" />
+		<None Remove="Resources\Fonts\JetBrainsMono-Medium.ttf" />
+		<None Remove="Resources\Fonts\JetBrainsMono-Regular.ttf" />
+		<None Remove="Resources\Fonts\JetBrainsMono-SemiBold.ttf" />
+		<None Remove="Resources\Fonts\JetBrainsMono-Thin.ttf" />
+		<None Remove="Resources\Images\home-background.png" />
+		<None Remove="Resources\Images\mastercard.png" />
+		<None Remove="Resources\Images\balance_graph.png" />
+		<None Remove="Resources\Images\shopping_bag.png" />
+		<None Remove="Pages\**" />
+		<None Remove="Resources\AppIcon\Icon.svg" />
+		<None Remove="Resources\AppIcon\appicon.svg" />
+		<None Remove="Resources\Images\credit_card.svg" />
+		<None Remove="Resources\Images\home_icon.png" />
+		<None Remove="Resources\Images\purchase_background.png" />
+		<None Remove="Resources\Images\settings_background.png" />
+		<None Remove="Resources\Images\support_icon.png" />
+		<None Remove="Resources\Images\documents_icon.png" />
+		<None Remove="Resources\Images\settings_icon.png" />
+		<None Remove="Resources\Images\user_icon.png" />
+		<None Remove="Resources\Images\logo_adobe.png" />
+		<None Remove="Resources\Images\logo_apple.png" />
+		<None Remove="Resources\Images\logo_google.png" />
+		<None Remove="Resources\Images\logo_netfilx.png" />
+		<None Remove="Resources\Images\logo_nintendo.png" />
+		<None Remove="Resources\Images\logo_paysafe.png" />
+		<None Remove="Resources\Images\logo_swisscom.png" />
+		<None Remove="Resources\Images\logo_xbox.png" />
+	</ItemGroup>
+	<ItemGroup>
+		<BundleResource Include="Resources\Fonts\Inter-Black.ttf" />
+		<BundleResource Include="Resources\Fonts\Inter-Bold.ttf" />
+		<BundleResource Include="Resources\Fonts\Inter-ExtraBold.ttf" />
+		<BundleResource Include="Resources\Fonts\Inter-ExtraLight.ttf" />
+		<BundleResource Include="Resources\Fonts\Inter-Light.ttf" />
+		<BundleResource Include="Resources\Fonts\Inter-Medium.ttf" />
+		<BundleResource Include="Resources\Fonts\Inter-Regular.ttf" />
+		<BundleResource Include="Resources\Fonts\Inter-SemiBold.ttf" />
+		<BundleResource Include="Resources\Fonts\Inter-Thin.ttf" />
+		<BundleResource Include="Resources\Fonts\JetBrainsMono-Bold.ttf" />
+		<BundleResource Include="Resources\Fonts\JetBrainsMono-ExtraBold.ttf" />
+		<BundleResource Include="Resources\Fonts\JetBrainsMono-ExtraLight.ttf" />
+		<BundleResource Include="Resources\Fonts\JetBrainsMono-Light.ttf" />
+		<BundleResource Include="Resources\Fonts\JetBrainsMono-Medium.ttf" />
+		<BundleResource Include="Resources\Fonts\JetBrainsMono-Regular.ttf" />
+		<BundleResource Include="Resources\Fonts\JetBrainsMono-SemiBold.ttf" />
+		<BundleResource Include="Resources\Fonts\JetBrainsMono-Thin.ttf" />
+	</ItemGroup>
+	<ItemGroup>
+		<Folder Include="Resources\Fonts\" />
+	</ItemGroup>
+	<ItemGroup>
+		<MauiImage Include="Resources\Images\home_background.png" />
+		<MauiImage Include="Resources\Images\mastercard.png" />
+		<MauiImage Include="Resources\Images\balance_graph.png" />
+		<MauiImage Include="Resources\Images\shopping_bag.png" />
+		<MauiImage Include="Resources\Images\credit_card.svg" />
+		<MauiImage Include="Resources\Images\home_icon.png" />
+		<MauiImage Include="Resources\Images\purchase_background.png" />
+		<MauiImage Include="Resources\Images\settings_background.png" />
+		<MauiImage Include="Resources\Images\user_icon.png" />
+		<MauiImage Include="Resources\Images\support_icon.png" />
+		<MauiImage Include="Resources\Images\settings_icon.png" />
+		<MauiImage Include="Resources\Images\documents_icon.png" />
+		<MauiImage Include="Resources\Images\logo_adobe.png" />
+		<MauiImage Include="Resources\Images\logo_apple.png" />
+		<MauiImage Include="Resources\Images\logo_google.png" />
+		<MauiImage Include="Resources\Images\logo_netfilx.png" />
+		<MauiImage Include="Resources\Images\logo_nintendo.png" />
+		<MauiImage Include="Resources\Images\logo_paysafe.png" />
+		<MauiImage Include="Resources\Images\logo_swisscom.png" />
+		<MauiImage Include="Resources\Images\logo_xbox.png" />
+	</ItemGroup>
+	<ItemGroup>
+		<MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="Pages\MainPage.xaml">
+			<SubType>Designer</SubType>
+		</MauiXaml>
+		<MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="PurchasePage.xaml">
+		  <SubType>Designer</SubType>
+		</MauiXaml>
+		<MauiXaml Update="PayPage.xaml">
+		  <SubType></SubType>
+		</MauiXaml>
+		<MauiXaml Update="SettingsPage.xaml">
+		  <SubType></SubType>
+		</MauiXaml>
+		<MauiXaml Update="OffersPage.xaml">
+		  <SubType></SubType>
+		</MauiXaml>
+	</ItemGroup>
+	<ItemGroup>
+	  <MauiIcon Include="Resources\AppIcon\appicon.svg" />
+	</ItemGroup>
+</Project>

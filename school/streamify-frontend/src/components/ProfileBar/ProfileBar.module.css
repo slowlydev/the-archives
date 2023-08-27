@@ -1,0 +1,69 @@
+header {
+	position: fixed;
+	top: 0;
+	left: 0;
+
+	z-index: 100;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: 100%;
+	height: 4rem;
+
+	background-color: white;
+
+	box-shadow: rgba(16, 16, 17, 0.02) 0px 1px 2px, rgba(16, 16, 17, 0.008) 0px 3.4px 8px,
+		rgba(16, 16, 17, 0.004) 0px 12px 30px;
+
+	border-bottom: 1px solid #efefef;
+}
+
+header > div {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+
+	margin-left: 1rem;
+	margin-right: 1rem;
+
+	width: 100%;
+}
+
+p {
+	font-size: 0.9rem;
+
+	margin: 0;
+	padding: 0;
+}
+
+.title {
+	font-size: 1.5rem;
+	font-weight: 700;
+	text-decoration: none;
+	color: #000;
+}
+
+.profile {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+
+	gap: 0.5rem;
+
+	cursor: pointer;
+}
+
+.profile .username {
+	font-weight: 600;
+}
+
+/* .profile .email {
+	opacity: 0.6;
+}*/
+
+.logout {
+	cursor: pointer;
+}

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cashyer.SettingsPage"
+             Title="Settings">
+
+	<Grid>
+		<Image Source="settings_background.png" Aspect="AspectFill"/>
+
+		<ScrollView>
+			<VerticalStackLayout Margin="20" Spacing="20">
+				<Frame BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+
+					<HorizontalStackLayout>
+						<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+							<Image Source="user_icon.png" HeightRequest="24" WidthRequest="24" />
+						</Frame>
+
+						<Label Text="My Account" FontFamily="InterMedium" FontSize="20" VerticalOptions="Center" />
+					</HorizontalStackLayout>
+				</Frame>
+
+				<Frame BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+
+					<HorizontalStackLayout>
+						<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+							<Image Source="settings_icon.png" HeightRequest="24" WidthRequest="24" />
+						</Frame>
+
+						<Label Text="App Settings" FontFamily="InterMedium" FontSize="20" VerticalOptions="Center" />
+					</HorizontalStackLayout>
+				</Frame>
+
+				<Frame BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+
+					<HorizontalStackLayout>
+						<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+							<Image Source="credit_card.png" HeightRequest="24" WidthRequest="24" />
+						</Frame>
+
+						<Label Text="My Cards" FontFamily="InterMedium" FontSize="20" VerticalOptions="Center" />
+					</HorizontalStackLayout>
+				</Frame>
+
+				<Frame BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+
+					<HorizontalStackLayout>
+						<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+							<Image Source="documents_icon.png" HeightRequest="24" WidthRequest="24" />
+						</Frame>
+
+						<Label Text="Documents" FontFamily="InterMedium" FontSize="20" VerticalOptions="Center" />
+					</HorizontalStackLayout>
+				</Frame>
+
+
+				<Frame BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+
+					<HorizontalStackLayout>
+						<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+							<Image Source="support_icon.png" HeightRequest="24" WidthRequest="24" />
+						</Frame>
+
+						<Label Text="Support" FontFamily="InterMedium" FontSize="20" VerticalOptions="Center" />
+					</HorizontalStackLayout>
+				</Frame>
+
+				<Frame BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+					<Frame.GestureRecognizers>
+						<TapGestureRecognizer Tapped="ToOffersPage" />
+					</Frame.GestureRecognizers>
+
+					<HorizontalStackLayout>
+						<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+							<Image Source="shopping_bag.png" HeightRequest="24" WidthRequest="24" />
+						</Frame>
+
+						<Label Text="Offers" FontFamily="InterMedium" FontSize="20" VerticalOptions="Center" />
+					</HorizontalStackLayout>
+				</Frame>
+
+			</VerticalStackLayout>
+		</ScrollView>
+	</Grid>
+</ContentPage>

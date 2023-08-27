@@ -1,0 +1,12 @@
+.wrapper {
+	max-width: 83rem;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	padding: 0 2rem;
+}
+
+.topWrapper {
+	margin-top: 5rem;
+}

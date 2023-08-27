@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cashyer.PurchasePage"
+             Title="Purchase"
+             >
+	<Shell.BackButtonBehavior>
+		<BackButtonBehavior TextOverride="Back" />
+	</Shell.BackButtonBehavior>
+
+	<Grid>
+		<Image Source="purchase_background.png" Aspect="AspectFill" />
+
+		<ScrollView>
+			<VerticalStackLayout Margin="20">
+				<Frame HeightRequest="80" WidthRequest="80" BackgroundColor="#7DFFFFFF" Margin="0,130,0,0">
+					<Image Source="shopping_bag.png" />
+				</Frame>
+
+				<VerticalStackLayout HorizontalOptions="Center" Margin="0, 30">
+					<Label Text="Galaxus" TextColor="White" FontFamily="InterMedium" FontSize="Medium" VerticalOptions="Center" />
+					<HorizontalStackLayout>
+						<Label Text="100.-" TextColor="White"  FontFamily="JetBrainsMonoSemiBold" FontSize="30" />
+						<Label Text="CHF" TextColor="White"  FontFamily="JetBrainsMonoSemiBold"  />
+					</HorizontalStackLayout>
+				</VerticalStackLayout>
+
+				<Label Text="Samsung Monitor" FontSize="Medium" FontFamily="InterMedium" TextColor="White" />
+				<Label Text="10.11.2022 Monday 10:11" FontSize="Medium" FontFamily="InterMedium" TextColor="White" Opacity="0.5" />
+
+				<Label Text="TWINT Kauf/Dinstleistung" FontSize="Medium" FontFamily="InterMedium" TextColor="White" Opacity="0.5" Margin="0,30,0,0" />
+				<Label Text="Digitec Galaxus" FontSize="Medium" FontFamily="InterMedium" TextColor="White" Opacity="0.5" />
+				<Label Text="Zürich Schweiz" FontSize="Medium" FontFamily="InterMedium" TextColor="White" Opacity="0.5" />
+
+
+				<VerticalStackLayout Margin="0,20,0,0">
+					<Label Text="Last Previous Purchases @ Galaxus" TextColor="White" FontSize="Small" FontFamily="InterMedium" Margin="0,0,0,15" />
+
+					<Frame Margin="0,0,0,10" BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+						<Frame.GestureRecognizers>
+							<TapGestureRecognizer Tapped="ToPurchasePage" />
+						</Frame.GestureRecognizers>
+
+						<FlexLayout Direction="Row" JustifyContent="SpaceBetween">
+							<HorizontalStackLayout>
+								<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+									<Image Source="shopping_bag.png" HeightRequest="24" WidthRequest="24" />
+								</Frame>
+
+								<VerticalStackLayout>
+									<Label Text="Galaxus" FontFamily="InterMedium" FontSize="20" />
+									<Label Text="100 CHF" FontFamily="JetBrainsMonoSemiBold" FontSize="15" />
+								</VerticalStackLayout>
+
+							</HorizontalStackLayout>
+
+							<VerticalStackLayout VerticalOptions="Start">
+								<Label Text="Today" FontFamily="InterMedium" />
+							</VerticalStackLayout>
+
+						</FlexLayout>
+					</Frame>
+
+					<Frame Margin="0,0,0,10" BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+						<Frame.GestureRecognizers>
+							<TapGestureRecognizer Tapped="ToPurchasePage" />
+						</Frame.GestureRecognizers>
+
+						<FlexLayout Direction="Row" JustifyContent="SpaceBetween">
+							<HorizontalStackLayout>
+								<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+									<Image Source="shopping_bag.png" HeightRequest="24" WidthRequest="24" />
+								</Frame>
+
+								<VerticalStackLayout>
+									<Label Text="Galaxus" FontFamily="InterMedium" FontSize="20" />
+									<Label Text="100 CHF" FontFamily="JetBrainsMonoSemiBold" FontSize="15" />
+								</VerticalStackLayout>
+
+							</HorizontalStackLayout>
+
+							<VerticalStackLayout VerticalOptions="Start">
+								<Label Text="Today" FontFamily="InterMedium" />
+							</VerticalStackLayout>
+
+						</FlexLayout>
+					</Frame>
+
+					<Frame Margin="0,0,0,10" BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+						<Frame.GestureRecognizers>
+							<TapGestureRecognizer Tapped="ToPurchasePage" />
+						</Frame.GestureRecognizers>
+
+						<FlexLayout Direction="Row" JustifyContent="SpaceBetween">
+							<HorizontalStackLayout>
+								<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+									<Image Source="shopping_bag.png" HeightRequest="24" WidthRequest="24" />
+								</Frame>
+
+								<VerticalStackLayout>
+									<Label Text="Galaxus" FontFamily="InterMedium" FontSize="20" />
+									<Label Text="100 CHF" FontFamily="JetBrainsMonoSemiBold" FontSize="15" />
+								</VerticalStackLayout>
+
+							</HorizontalStackLayout>
+
+							<VerticalStackLayout VerticalOptions="Start">
+								<Label Text="Today" FontFamily="InterMedium" />
+							</VerticalStackLayout>
+
+						</FlexLayout>
+					</Frame>
+
+					<Frame Margin="0,0,0,10" BorderColor="#00000000" CornerRadius="20" HeightRequest="90">
+						<Frame.GestureRecognizers>
+							<TapGestureRecognizer Tapped="ToPurchasePage" />
+						</Frame.GestureRecognizers>
+
+						<FlexLayout Direction="Row" JustifyContent="SpaceBetween">
+							<HorizontalStackLayout>
+								<Frame BorderColor="#00000000" BackgroundColor="Black" CornerRadius="10" Margin="0,0,20,0" HeightRequest="60" WidthRequest="60" >
+									<Image Source="shopping_bag.png" HeightRequest="24" WidthRequest="24" />
+								</Frame>
+
+								<VerticalStackLayout>
+									<Label Text="Galaxus" FontFamily="InterMedium" FontSize="20" />
+									<Label Text="100 CHF" FontFamily="JetBrainsMonoSemiBold" FontSize="15" />
+								</VerticalStackLayout>
+
+							</HorizontalStackLayout>
+
+							<VerticalStackLayout VerticalOptions="Start">
+								<Label Text="Today" FontFamily="InterMedium" />
+							</VerticalStackLayout>
+
+						</FlexLayout>
+					</Frame>
+				</VerticalStackLayout>
+
+			</VerticalStackLayout>
+		</ScrollView>
+	</Grid>
+</ContentPage>

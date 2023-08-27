@@ -1,0 +1,208 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+html,
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e9e9ff;
+}
+
+body {
+  margin-bottom: 10vh;
+}
+
+header {
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 3rem;
+  background-color: #5555e3;
+  color: #ffffff;
+}
+header p {
+  margin: 0;
+}
+header p a {
+  text-decoration: none;
+}
+header .header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1rem;
+}
+
+.section-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  width: 100%;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 20rem;
+  width: 40rem;
+  max-width: 90vw;
+  gap: 2rem;
+  border-radius: 1.5rem;
+  background-color: #f7f7ff;
+  box-shadow: 0px 6.7px 5.3px rgba(0, 0, 0, 0.028), 0px 22.3px 17.9px rgba(0, 0, 0, 0.042), 0px 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+button {
+  height: 2rem;
+  width: 10rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 0.2rem;
+}
+
+.about-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.about-text img {
+  height: 2rem;
+}
+
+.inline-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.button-zoom {
+  margin-top: 3rem;
+  font-size: 1rem;
+  height: 2rem;
+  width: 10rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 0.2rem;
+  transition: all 0.2s ease 0s;
+  box-shadow: 0 3.4px 2.7px rgba(0, 0, 0, 0.037), 0 8.7px 6.9px rgba(0, 0, 0, 0.053), 0 17.7px 14.2px rgba(0, 0, 0, 0.067), 0 36.5px 29.2px rgba(0, 0, 0, 0.083), 0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.button-zoom:hover {
+  transform: scale(3);
+  cursor: pointer;
+}
+
+.button-zoom:active {
+  transform: scale(0.9);
+}
+
+.blur-container {
+  padding: 3rem;
+  transition: all 0.3s ease 0s;
+  background-color: none;
+}
+
+.blur-container:hover {
+  filter: blur(20px);
+}
+
+.rotation-text {
+  padding: 3rem;
+  transition: all 0.2s ease 0s;
+}
+
+.rotation-text:hover {
+  transform: rotateZ(-45deg);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.focus-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 10rem;
+  height: 3rem;
+  margin: 3rem;
+  border-radius: 1rem;
+  background-color: #5555e3;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out 0s;
+}
+.focus-button .background-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.focus-button .background-container img {
+  position: absolute;
+  height: 3rem;
+  transition: all 0.2s ease-in-out 0s;
+  transform: scale(0) translate(0px, 1px);
+  overflow: visible;
+}
+.focus-button p {
+  position: absolute;
+  z-index: 10;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #ffffff;
+  transition: all 0.2s ease-in-out 0s;
+}
+.focus-button:hover {
+  transform: scale(1.5);
+}
+.focus-button:hover .background-container #css-icon {
+  transform: scale(0.8) translate(-60px, -25px);
+}
+.focus-button:hover .background-container #html-icon {
+  padding: 3rem;
+  filter: blur(2px);
+  z-index: 11;
+  transform: scale(1) translate(40px, -25px);
+}
+.focus-button:hover .background-container #next-icon {
+  transform: scale(0.8) translate(20px, 30px);
+}
+.focus-button:hover p {
+  transform: scale(1.8);
+}
+.focus-button:active {
+  transform: scale(1);
+}
+.focus-button:active .background-container #css-icon {
+  transform: scale(0.8) translate(-55px, -20px);
+}
+.focus-button:active .background-container #html-icon {
+  padding: 3rem;
+  filter: blur(2px);
+  z-index: 11;
+  transform: scale(1) translate(35px, -20px);
+}
+.focus-button:active .background-container #next-icon {
+  transform: scale(0.8) translate(15px, 25px);
+}
+.focus-button:active p {
+  transform: scale(1.8);
+}/*# sourceMappingURL=styles.css.map */

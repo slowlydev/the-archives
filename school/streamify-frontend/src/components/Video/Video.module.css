@@ -1,0 +1,56 @@
+p {
+	font-size: 0.9rem;
+
+	margin: 0;
+	padding: 0;
+}
+
+.video {
+	display: flex;
+	flex-direction: column;
+
+	gap: 1rem;
+
+	width: 20rem;
+}
+
+.video .thumbnail {
+	border-radius: 1rem;
+
+	width: 100%;
+	height: 10rem;
+
+	object-fit: cover;
+
+	background-color: #cccccc;
+
+	cursor: pointer;
+}
+
+.videoInfo {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+
+	gap: 1rem;
+
+	cursor: pointer;
+}
+
+.videoInfo img {
+	width: 3rem;
+	height: 3rem;
+
+	border-radius: 50%;
+
+	background-color: #cccccc;
+}
+
+.title {
+	font-weight: 500;
+}
+
+.username,
+.info {
+	opacity: 0.6;
+}

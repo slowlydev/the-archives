@@ -1,0 +1,171 @@
+[
+	{
+		"id": 0,
+		"slug": "ilce-1",
+		"name": "ILCE-1",
+		"price": 7800.0,
+		"marketingProductName": "Alpha 1 mit herausragender Auflösung und Geschwindigkeit",
+		"topFeatures": [
+			"Mehrschichtiger 35-mm-Vollformat-CMOS-Sensor mit 50,1 MP[FN|Effektive Pixel (ungefähre Angabe).] und integriertem Speicher für Schnelligkeit",
+			"High-Speed-Serienaufnahmen mit bis zu 30 BpS[FN|Serienaufnahmemodus „Hi+“. Bei Verschlusszeiten von 1/125 s oder kürzer. Im AF-C-Modus hängt die maximale kontinuierliche Bildwiederholrate vom Aufnahmemodus und dem verwendeten Objektiv ab.]",
+			"Professionelle Videoaufnahme mit bis zu 8K/30p und 4K/120p[FN|Mit 10 % Bildzuschnitt.]"
+		],
+		"image": { "src": "ilce-1.png", "alt": "ILCE-1" }
+	},
+	{
+		"id": 1,
+		"slug": "ilce-7rm3",
+		"name": "ILCE-7RM3",
+		"price": 3100.0,
+		"marketingProductName": "α7R III 35-mm-Vollformatkamera mit Autofokus",
+		"topFeatures": [
+			"Exmor R™ CMOS 35-mm-Vollformatsensor mit 42,4MP[FN|Anzahl effektiver Pixel (ungefähre Angabe).] und fortschrittlicher Bildverarbeitung",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde",
+			"Bedienkomfort und zuverlässige, professionelle Arbeitsweise"
+		],
+		"image": { "src": "ilce-7rm3.png", "alt": "ILCE-7RM3" }
+	},
+	{
+		"id": 2,
+		"slug": "ilce-7m3-body-kit",
+		"name": "ILCE-7M3 Body / Kit",
+		"price": 2599.0,
+		"marketingProductName": "Alpha 7 III mit 35-mm-Vollformatbildsensor",
+		"topFeatures": [
+			"Neu entwickelter Exmor R™ CMOS 35-mm-Vollformatsensor mit 24,2 MP[FN|Anzahl effektiver Pixel (ungefähre Angabe).] und fortschrittlicher Bildverarbeitung",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde[FN|Bis zu 10 Bilder pro Sekunde im Serienaufnahmemodus „Hi+“ und bis zu 8 Bilder pro Sekunde im Serienaufnahmemodus „Hi“. Die maximale Anzahl an Bildern pro Sekunde hängt von den Kameraeinstellungen ab.]",
+			"Vollformatige 4K HDR[FN|Eine SDHC/SDXC-Karte der Klasse 10 oder höher ist für die Aufnahme von Filmen im XAVC S-Format erforderlich. Für Aufnahmen mit 100 Mbit/s ist eine Karte der UHS-Geschwindigkeitsklasse 3 oder höher erforderlich.] [FN|Schließen Sie dieses Gerät zur Wiedergabe von HDR (HLG)-Videos über ein USB-Kabel an einen HDR (HLG)-kompatiblen Fernseher von Sony an.] Videoaufnahmen und Profi-Videofunktionen"
+		],
+		"image": { "src": "ilce-7m3-body-kit.png", "alt": "ILCE-7M3 Body / Kit" }
+	},
+	{
+		"id": 3,
+		"slug": "ilce-7sm3",
+		"name": "ILCE-7SM3",
+		"price": 4500.0,
+		"marketingProductName": "Alpha 7S III mit professionellen Video- und Foto-Funktionen",
+		"topFeatures": [
+			"Neu entwickelter 12,1-MP[FN|Effektive Pixel (ungefähre Angabe).]-Sensor und neuer BIONZ XR<sup>TM</sup> Prozessor",
+			"Professionelle Videoaufnahme mit bis zu 4K/120p[FN|Mit 10 % Bildzuschnitt.]",
+			"Hybrid-Autofokus mit hoher Leistung, optimiert für die Aufnahme von Fotos oder Videos"
+		],
+		"image": { "src": "ilce-7sm3.png", "alt": "ILCE-7SM3" }
+	},
+	{
+		"id": 4,
+		"slug": "ilce-7rm2",
+		"name": "ILCE-7RM2",
+		"price": 2399.0,
+		"marketingProductName": "Alpha 7R II mit rückwärtig belichtetem Vollformatbildsensor",
+		"topFeatures": [
+			"Verfügt über den ersten [FN|Bei Digitalkameras mit Vollformatsensor. Stand: Juni 2015, basierend auf Studien von Sony.] 42,4 MP [FN|Effektive Megapixel (ungefähre Angabe).] rückwärtig belichteten CMOS Vollformatsensor",
+			"BIONZ X™ mit extra großem ISO-Bereich von 50 bis 102400 [FN|ISO 100-25600, erweiterbar auf ISO 50-102400 für Fotoaufnahmen.]",
+			"Optimierter schneller Hybrid-Autofokus mit Phasendetektion und 399-Punkt-Brennebene."
+		],
+		"image": { "src": "ilce-7rm2.png", "alt": "ILCE-7RM2" }
+	},
+	{
+		"id": 5,
+		"slug": "ilce-7rm4a",
+		"name": "ILCE-7RM4A",
+		"price": 3700.0,
+		"marketingProductName": "Alpha 7R IV 35-mm-Vollbildkamera mit 61,0 MP",
+		"topFeatures": [
+			"Exmor R™ CMOS 35-mm-Vollformatsensor mit 61,0 MP[FN|Effektive Pixel (ungefähre Angabe).] und High-Speed-Bildprozessor",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde[FN|Im Serienaufnahmemodus „Hi+“ und bis zu 8 Bilder pro Sekunde im Serienaufnahmemodus „Hi“. Die maximale Anzahl an Bildern pro Sekunde hängt von den Kameraeinstellungen ab.]",
+			"Komfort und Zuverlässigkeit für anspruchsvolle Profis"
+		],
+		"image": { "src": "ilce-7rm4a.png", "alt": "ILCE-7RM4A" }
+	},
+	{
+		"id": 6,
+		"slug": "ilce-7c",
+		"name": "ILCE-7C",
+		"price": 2250.0,
+		"marketingProductName": "Kompakte Vollformatkamera Alpha 7C",
+		"topFeatures": [
+			"Das weltweit kleinste und leichteste[FN|Unter den Vollformat-Wechselobjektivkameras mit integrierter optischer Bildstabilisierung. Stand Pressemitteilung im September 2020. Studie von Sony.] Vollformat-Kameragehäuse mit Stabilisierung",
+			"Exmor R™ CMOS-Vollformat-Bildsensor mit 24,2 MP[FN|Effektive Pixel (ungefähre Angabe).]",
+			"Vielseitige 4K Videoaufnahme für Kreative"
+		],
+		"image": { "src": "ilce-7c.png", "alt": "ILCE-7C" }
+	},
+	{
+		"id": 7,
+		"slug": "ilce-7m4",
+		"name": "ILCE-7M4",
+		"price": 3000,
+		"marketingProductName": "α7 IV Vollformat-Hybrid-Kamera",
+		"topFeatures": [
+			"Rückwärtig belichteter Exmor R™ CMOS Vollformat-Bildsensor mit 33,0 Megapixel[FN|Effektiv, ca.]",
+			"BIONZ XR™ für Fotoaufnahmen und Videofunktionen auf Basis unserer Flaggschiff-Produkte",
+			"Sofortiges Streaming und Teilen von hochwertigen Inhalten"
+		],
+		"image": { "src": "ilce-7m4.png", "alt": "ILCE-7M4" }
+	},
+	{
+		"id": 8,
+		"slug": "ilce-7m2-body-kit",
+		"name": "ILCE-7M2 BODY / KIT",
+		"price": 1300.0,
+		"marketingProductName": "Alpha 7 II E-Mount Kamera mit Vollformatsensor",
+		"topFeatures": [
+			"Vollformatkamera mit 5-Achsen-Bildstabilisierung",
+			"Effizienter und verbesserter schneller Hybrid-AF",
+			"24,3 MP, 35 mm Exmor™ CMOS Sensor"
+		],
+		"image": { "src": "ilce-7m2-body-kit.png", "alt": "ILCE-7M2 BODY / KIT" }
+	},
+	{
+		"id": 9,
+		"slug": "ilce-7rm5",
+		"name": "ILCE-7RM5",
+		"price": 4500.0,
+		"marketingProductName": "α7R V hochauflösende Vollformatkamera",
+		"topFeatures": [
+			"Eine neu entwickelte KI-Verarbeitungseinheit",
+			"Rückwärtig belichteter Exmor R™ CMOS Vollformatsensor mit 61,0 Megapixel[FN|Effektive Pixel (ungefähre Angabe).]",
+			"Professionelle Videoaufnahmen mit bis zu 8K 24p (25p)[FN|Zeitlupe und Zeitraffer stehen bei XAVC HS 8K Videoaufnahmen nicht zur Verfügung. &#91;APS-C/S35 Aufnahme&#93; ist auf &#91;Off&#93; eingestellt. Der Sichtwinkel beträgt etwa 1,2-fach.] und 4K 60p (50p)[FN|&#91;APS-C/S35 Aufnahme&#93; ist auf &#91;Off&#93; eingestellt. Sichtwinkel beträgt etwa 1,2-fach bei Videoaufnahmen mit 4K 60p (50p).]"
+		],
+		"image": { "src": "ilce-7rm5.png", "alt": "ILCE-7RM5" }
+	},
+	{
+		"id": 10,
+		"slug": "ilce-9m2",
+		"name": "ILCE-9M2",
+		"price": 5800,
+		"marketingProductName": "Alpha 9 II Vollbildkamera mit Profifunktionen",
+		"topFeatures": [
+			"Mehrschichtiger 35-Vollformat-CMOS-Sensor mit integriertem Speicher für äußerst schnelle Aufnahmen",
+			"Zuverlässiger AF und High-Speed-Serienaufnahmefunktion mit 20 Bildern pro Sekunde[FN|“Hi” Serienbildmodus. Bei kürzeren Verschlusszeiten als 1/125 Sek. Im AF-C-Modus hängt die maximale kontinuierliche Bildwiederholrate vom Aufnahmemodus und dem verwendeten Objektiv ab.] mit AF/AE-Tracking",
+			"Höhere Benutzerfreundlichkeit und Vernetzungsmöglichkeiten auf Profi-Niveau"
+		],
+		"image": { "src": "ilce-9m2.png", "alt": "ILCE-9M2" }
+	},
+	{
+		"id": 11,
+		"slug": "ilce-7rm4",
+		"name": "ILCE-7RM4",
+		"price": 4500.0,
+		"marketingProductName": "α7R IV 35-mm-Vollformatkamera mit 61,0 MP",
+		"topFeatures": [
+			"Exmor R™ CMOS 35-mm-Vollformatsensor mit 61,0 MP[FN|Effektive Pixel (ungefähre Angabe).] und High-Speed-Bildprozessor",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde[FN|Im Serienaufnahmemodus „Hi+“ und bis zu 8 Bilder pro Sekunde im Serienaufnahmemodus „Hi“. Die maximale Anzahl an Bildern pro Sekunde hängt von den Kameraeinstellungen ab.]",
+			"Komfort und Zuverlässigkeit für anspruchsvolle Profis"
+		],
+		"image": { "src": "ilce-7rm4.png", "alt": "ILCE-7RM4" }
+	},
+	{
+		"id": 12,
+		"slug": "ilce-7rm3a",
+		"name": "ILCE-7RM3A",
+		"price": 2500.0,
+		"marketingProductName": "Alpha 7R III mit 35-mm-Vollformat-Bildsensor",
+		"topFeatures": [
+			"Exmor R™ CMOS 35-mm-Vollformatsensor mit 42,4 MP[FN|Anzahl effektiver Pixel (ungefähre Angabe).] und fortschrittlicher Bildverarbeitung",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde",
+			"Bedienkomfort und zuverlässige, professionelle Arbeitsweise"
+		],
+		"image": { "src": "ilce-7rm3a.png", "alt": "ILCE-7RM3A" }
+	}
+]

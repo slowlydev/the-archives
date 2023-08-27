@@ -1,0 +1,37 @@
+.wrapper {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.spinner {
+	border: 7px solid #4285f4;
+	border-top-color: transparent;
+	border-radius: 50%;
+	animation: spinner 0.7s linear infinite;
+}
+
+.large {
+	width: 60px;
+	height: 60px;
+}
+
+.small {
+	width: 20px;
+	height: 20px;
+	border-width: 4px;
+}
+
+@keyframes spinner {
+	from {
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}

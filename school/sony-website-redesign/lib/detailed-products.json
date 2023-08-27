@@ -1,0 +1,2716 @@
+[
+	{
+		"id": 0,
+		"slug": "ilce-1",
+		"name": "ILCE-1",
+		"price": 7800,
+		"marketingProductName": "Alpha 1 mit herausragender Auflösung und Geschwindigkeit",
+		"topFeatures": [
+			"Mehrschichtiger 35-mm-Vollformat-CMOS-Sensor mit 50,1 MP[FN|Effektive Pixel (ungefähre Angabe).] und integriertem Speicher für Schnelligkeit",
+			"High-Speed-Serienaufnahmen mit bis zu 30 BpS[FN|Serienaufnahmemodus „Hi+“. Bei Verschlusszeiten von 1/125 s oder kürzer. Im AF-C-Modus hängt die maximale kontinuierliche Bildwiederholrate vom Aufnahmemodus und dem verwendeten Objektiv ab.]",
+			"Professionelle Videoaufnahme mit bis zu 8K/30p und 4K/120p[FN|Mit 10 % Bildzuschnitt.]"
+		],
+		"image": { "src": "ilce-1.png", "alt": "ILCE-1" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["Ca. 50,1 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["Ca. 50,5 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["Exmor RS CMOS-35-mm-Vollformatsensor (35,9 mm x 24,0 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Ja (optischer Filter mit Beschichtung zum Schutz vor Aufladung und Ultraschall-Vibrationsmechanismus)"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": [
+							"JPEG-kompatibel (DCF Version 2.0, Exif Version 2.32, MPF Baseline-kompatibel), HEIF (MPEG-A MIAF-kompatibel), RAW (kompatibel mit dem Sony ARW 4.0 Format)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L:  8.640 x 5.760 (49,7 MP), M: 5.616 x 3.744 (21 MP), S: 4.320 x 2.880 (12,4 MP), APS-C M: 5.616 x 3.744 (21 MP), S:  4.320 x 2.880 (12,4 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [4:3] ",
+						"name": "newAlphaImageSizePixels43",
+						"value": [
+							"35-mm-Vollformat L: 7.680 x 5.760 (44,2 MP), M: 4.992 x 3.744 (18,6 MP), S: 3.840 x 2.880 (11 MP) APS-C M: 4.992 x 3.744 (18,6 MP), S:  3.840 x 2.880 (11 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 8.640 x 4.864 (42 MP), M: 5.616 x 3.160 (17,7 MP), S: 4.320 x 2.432 (10,5 MP), APS-C M: 5.616 x 3.160 (17,7 MP), S: 4.320 x 2.432 (10,5 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [1:1] ",
+						"name": "newAlphaImageSizePixels11",
+						"value": [
+							"35-mm-Vollformat L:  5.760 x 5.760 (33 MP), M: 3.744 x 3.744 (14 MP), S: 2.880 x 2.880 (8,2 MP), APS-C M: 3.744 x 3.744 (14 MP), S: 2.880 x 2.880 (8,2 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": [
+							"RAW (komprimiert/verlustfrei komprimiert (L/M/S)/unkomprimiert), JPEG (extrafein/fein/Standard/Light), HEIF (4:2:0/4:2:2) (extrafein/fein/Standard/Light)"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildeffekte", "name": "newAlphaPictureEffectMovie", "value": ["-"] },
+					{ "specType": "text", "displayName": "Kreatives Design", "name": "newAlphaCreativeStyle", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP11) Parameter: Schwarzpegel, Gamma (Film, Foto, S-Cinetone, Cine1–4, ITU709, ITU709 (800 %), S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphasenanlage, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "KREATIVER LOOK",
+						"name": "newAlphaRecStillCreativeLook",
+						"value": ["ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Benutzerdefiniert (1-6)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": ["Aus, Optimierer für den Dynamikbereich"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": [
+							"sRGB-Standard (mit sYCC-Skala), Adobe RGB-Standard und Rec. ITU-R BT.2100-Standard (BT.2020-Skala).[FN|Aufnahmen mit der Pixel Shift Multi Shooting-Funktion können mit einer speziellen Bildbearbeitungssoftware von Sony verarbeitet werden.]"
+						]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{ "specType": "text", "displayName": "Aufnahmeformat", "name": "newAlphaRecordingMovieRecordingFormat", "value": ["XAVC S, XAVC HS"] },
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, XAVC HS: MPEG-H HEVC/H.265"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": [
+							"LPCM 2 Kanäle (48 kHz 16 Bit), LPCM 2 Kanäle (48 kHz 24 Bit)[FN|Bei der Verwendung von Zubehör, das die 4-Kanal-Ausgabe/24 Bit mit dem Multi Interface-Zubehörschuh unterstützt.], LPCM 4 Kanäle (48 kHz 24 Bit)[FN|Bei der Verwendung von Zubehör, das die 4-Kanal-Ausgabe/24 Bit mit dem Multi Interface-Zubehörschuh unterstützt.], MPEG-4 AAC-LC 2 Kanäle [FN|Proxyvideos]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": [
+							"Aufnahmemodus kompatibel mit ITU-R BT.2100-Standard (BT.2020-Skala)[FN|Wenn &#91;Gamma&#93; auf &#91;HLG&#93; und &#91;Color Mode&#93; auf &#91;BT.2020&#93; in &#91;Picture Profile&#93; eingestellt wird.]"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildeffekte", "name": "newAlphaPictureEffect", "value": ["-"] },
+					{ "specType": "text", "displayName": "Kreatives Design", "name": "newAlphaCreativeStyleMovies", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP11) Parameter: Schwarzpegel, Gamma (Film, Foto, S-Cinetone, Cine1–4, ITU709, ITU709 (800 %), S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphasenanlage, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "KREATIVER LOOK",
+						"name": "newAlphaCreativeLookStill",
+						"value": ["ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Benutzerdefiniert (1-6)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC HS 8K)",
+						"name": "newAlphaScreenMovieRecHs8K",
+						"value": [
+							"7.680 x 4.320 (4:2:0, 10 Bit, NTSC) (ca.): 30p (400 Mbit/s / 200 Mbit/s), 24p (400 Mbit/s / 200 Mbit/s), 7.680 x 4.320 (4:2:0, 10 Bit, PAL) (ca.): 25p (400 Mbit/s/200 Mbit/s); 7.680 x 4.320 (4:2:2, 10 Bit, NTSC) (ca.): 30p (520 Mbit/s/260 Mbit/s), 24p (520 Mbit/s/260 Mbit/s), 7.680 x 4.320 (4:2:2, 10 Bit, PAL) (ca.): 25p (520 Mbit/s/260 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC HS 4K)",
+						"name": "newAlphaScreenMovieRecHs4K",
+						"value": [
+							"3.840 x 2.160 (4:2:0, 10 Bit, NTSC) (Ca.): 120p (200 Mbit/s), 60p (150 Mbit/s/ 75 Mbit/s/ 45 Mbit/s), 24p (100 Mbit/s/ 50 Mbit/s/ 30 Mbit/s); 3.840 x 2.160 (4:2:0, 10 Bit, PAL) (Ca.): 100p (200 Mbit/s), 50p (150 Mbit/s/ 75 Mbit/s/ 45 Mbit/s), 3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (Ca.): 120p (280 Mbit/s), 60p (200 Mbit/s/ 100 Mbit/s), 24p (100 Mbit/s/ 50 Mbit/s); 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (Ca.): 100p (280 Mbit/s), 50p (200 Mbit/s/ 100 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S 4K)",
+						"name": "newAlphaScreenMovieRecS4K",
+						"value": [
+							"3.840 x 2.160 (4:2:0, 8 Bit, NTSC) (Ca.): 120p (200 Mbit/s), 60p (150 Mbit/s), 30p (100 Mbit/s/ 60 Mbit/s), 24p (100 Mbit/s/ 60 Mbit/s); 3.840 x 2.160 (4:2:0, 8 Bit, PAL) (Ca.): 100p (200 Mbit/s), 50p (150 Mbit/s), 25p (100 Mbit/s/ 60 Mbit/s); 3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (Ca.): 120p (280 Mbit/s), 60p (200 Mbit/s), 30p (140 Mbit/s), 24p (100 Mbit/s); 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (Ca.): 100p (280 Mbit/s), 50p (200 Mbit/s), 25p (140 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S HD)",
+						"name": "newAlphaScreenMovieRecShd",
+						"value": [
+							"1.920 x 1.080 (4:2:0, 8 Bit, NTSC) (Ca.): 120p (100 Mbit/s/ 60 Mbit/s), 60p (50 Mbit/s/ 25 Mbit/s), 30p (50 Mbit/s/ 16 Mbit/s), 24p (50 Mbit/s); 1.920 x 1.080 (4:2:0, 8 Bit, PAL) (Ca.): 100p　(100 Mbit/s/ 60 Mbit/s), 50p (50 Mbit/s/ 25 Mbit/s), 25p (50 Mbit/s/ 16 Mbit/s); 1.920 x 1.080 (4:2:2, 10 Bit, NTSC) (Ca.): 60p (50 Mbit/s), 30p (50 Mbit/s), 24p (50 Mbit/s); 1.920 x 1.080 (4:2:2, 10 Bit, PAL) (Ca.): 50p (50 Mbit/s), 25p (50 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S-I 4K)",
+						"name": "newAlphaScreenMovieRecSi4K",
+						"value": [
+							"3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (Ca.): 60p (600 Mbit/s), 30p (300 Mbit/s), 24p (240 Mbit/s); 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (Ca.): 50p (500 Mbit/s), 25p (250 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S-I HD)",
+						"name": "newAlphaScreenMovieRecSihd",
+						"value": [
+							"1.920 x 1.080 (4:2:2, 10 Bit, NTSC) (Ca.): 60p (222 Mbit/s), 30p (111 Mbit/s), 24p (89 Mbit/s); 1.920 x 1.080 (4:2:2, 10 Bit, PAL) (Ca.): 50p (185 Mbit/s), 25p (93 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": [
+							"NTSC-Modus: 1, 2, 4, 8, 15, 30, 60, 120, 240 BpS[FN|Anzahl effektiver Pixel: 1.408 x 804 bei 240 oder 200 Bildern pro Sekunde. 240 oder 200 Bilder pro Sekunde nicht verfügbar bei Verwendung der Dateiformate &#91;XAVC HS 4K&#93;, &#91;XAVC S 4K&#93; oder &#91;XAVC S-I 4K&#93;.][FN|Wenn &#91;Movie recording system&#93; &#91;XAVC HS 8k&#93; ist, ist S&Q nicht verfügbar.], PAL-Modus: 1, 2, 3, 6, 12, 25, 50, 100, 200 BpS[FN|Anzahl effektiver Pixel: 1.408 x 804 bei 240 oder 200 Bildern pro Sekunde. 240 oder 200 Bilder pro Sekunde nicht verfügbar bei Verwendung der Dateiformate &#91;XAVC HS 4K&#93;, &#91;XAVC S 4K&#93; oder &#91;XAVC S-I 4K&#93;.][FN|Wenn &#91;Movie recording system&#93; &#91;XAVC HS 8k&#93; ist, ist S&Q nicht verfügbar.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Audiopegelanzeige, Audioaufnahmefunktion, PAL/NTSC-Auswahl, Proxyaufnahme (1.280 x 720 (6 Mbit/s), 1.920 x 1.080 (9 Mbit/s), 1.920 x 1.080 (16 Mbit/s)), TC/UB, Auto Slow Shutter, Gamma Display Assist, RAW-Ausgabe (HDMI)"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 1,
+		"slug": "ilce-7rm3",
+		"name": "ILCE-7RM3",
+		"price": 3100,
+		"marketingProductName": "α7R III 35-mm-Vollformatkamera mit Autofokus",
+		"topFeatures": [
+			"Exmor R™ CMOS 35-mm-Vollformatsensor mit 42,4 MP[FN|Anzahl effektiver Pixel (ungefähre Angabe).] und fortschrittlicher Bildverarbeitung",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde",
+			"Bedienkomfort und zuverlässige, professionelle Arbeitsweise"
+		],
+		"image": { "src": "ilce-7rm3.png", "alt": "ILCE-7RM3" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["Ca. 42,4 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["ca. 43,6 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["EXMOR R CMOS 35-mm-Vollformatsensor (35,9 x 24,0 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Optischer Filter mit Beschichtung zum Schutz vor Aufladung und Bildsensor-Shift-Mechanismus"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": ["JPEG (DCF Version 2.0, Exif Version 2.31, MPF Baseline-kompatibel), RAW (Sony ARW 2.3 Format)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L: 7.952 x 5.304 (42 Mio.), M: 5.168 x 3.448 (18 Mio.), S: 3.984 x 2.656 (11 Mio.)",
+							"APS-C L: 5.168 x 3.448 (18 Mio.), M: 3.984 x 2.656 (11 Mio.), S: 2.592 x 1.728 (4,5 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 7.952 x 4.472 (36 Mio.), M: 5.168 x 2.912 (15 Mio.), S: 3.984 x 2.240 (8,9 Mio.)",
+							"APS-C L: 5.168 x 2.912 (15 Mio.), M: 3.984 x 2.240 (8,9 Mio.), S: 2.592 x 1.456 (3,8 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": ["RAW, RAW & JPEG (Extra Fine, Fine, Standard), JPEG (Extra Fine, Fine, Standard)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffectMovie",
+						"value": [
+							"Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyle",
+						"value": [
+							"Standard, Lebendig, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbst, Schwarzweiß, Sepia, Style Box (1-6), (Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -3 bis +3))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": [
+							"Aus, Dynamikbereichsoptimierung (Auto/Level (1-5)), Automatische High Dynamic Range-Funktion (Automatische Belichtungsunterschiede, Belichtungsunterschiede (Belichtungswert 1 - 6 in Schritten von 1,0))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": ["sRGB-Standard (mit sYCC-Gamut) und Adobe RGB-Standard, kompatibel mit TRILUMINOS Color"]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] },
+					{ "specType": "text", "displayName": "Unkomprimiertes RAW", "name": "newAlphaUncompressedRaw", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingMovieRecordingFormat",
+						"value": ["XAVC S, kompatibel mit AVCHD-Format Version 2.0"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": ["XAVC S: LPCM 2 Kanäle, AVCHD: Dolby® Digital (AC-3) 2 Kanäle, Dolby® Digital Stereo Creator"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": ["xvYCC Standard (x.v.Color bei Anschluss über ein HDMI Kabel) kompatibel mit TRILUMINOS Color"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffect",
+						"value": [
+							"8 Arten: Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key, Rich-Tone-Mono"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyleMovies",
+						"value": [
+							"Standard, Lebendig, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbstblätter, Schwarzweiß, Sepia, Style Box (1 - 6), (Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -3 bis +3))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), NTSC",
+						"name": "newAlphaImageSizePixelsNtsc",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (30p, 100 Mio.), 3.840 x 2.160 (24p, 100 Mio.), 3.840 x 2.160 (30p, 60 Mio.), 3.840 x 2.160 (24p, 60 Mio.) XAVC S HD: 1.920 x 1.080 (120p, 100 Mio.), 1.920 x 1.080 (120p, 60 Mio.), 1.920 x 1.080 (60p, 50 Mio.), 1.920 x 1.080 (30p, 50 Mio.), 1.920 x 1.080 (24p, 50 Mio.), 1.920 x 1.080 (60p, 25 Mio.), 1.920 x 1.080 (30p, 16 Mio.) AVCHD: 1.920 x 1.080 (60i, 24 Mio., FX), 1.920 x 1.080 (60i, 17 Mio., FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), PAL",
+						"name": "newAlphaImageSizepixelsPal",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (25p, 100 Mio.), 3.840 x 2.160 (25p, 60 Mio.) XAVC S HD: 1.920 x 1.080 (100p, 100 Mio.), 1.920 x 1.080 (100p, 60 Mio.), 1.920 x 1.080 (50p, 50 Mio.), 1.920 x 1.080 (25p, 50 Mio.), 1.920 x 1.080 (50p, 25 Mio.), 1.920 x 1.080 (25p, 16 Mio.) AVCHD: 1.920 x 1.080 (50i, 24 Mio., FX), 1.920 x 1.080 (50i, 17 Mio., FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": ["NTSC-Modus: 1, 2, 4, 8, 15, 30, 60, 120 Bilder pro Sekunde, PAL-Modus: 1, 2, 3, 6, 12, 25, 50, 100 Bilder pro Sekunde"]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFZEICHNUNG UND BILDGRÖSSE) ",
+						"name": "newAlphaImageSizeFrameRateBitRate",
+						"value": ["NTSC-Modus: 1.920 x 1.080 (60p, 30p, 24p)", "PAL-Modus: 1.920 x 1.080 (50p, 25p)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Audiopegelanzeige, Audio-Aufnahmefunktion, PAL/NTSC-Auswahlassistent, Ja (1.280 x 720 (9 Mbit/s)), TC/UB, (TC-Voreinstellung, UB-Voreinstellung, TC-Format, TC-Ausführung, TC Make, UB-Aufnahmezeit), Auto Slow Shutter, Aufnahmesteuerung, HDMI Clean-Info. (Ein/Aus wählbar), Gamma Display Assist"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "HDMI® Ausgang",
+						"name": "newAlphaHdmiOutput",
+						"value": [
+							"3.840 x 2.160 (25p), 1.920 x 1.080 (50p), 1.920 x 1.080 (50i), 1.920 x 1.080 (24p), 1.920 x 1.080 (60p), 1.920 x 1.080 (60i), 3.840 x 2.160 (30p), 3.840 x 2.160 (24p), YCbCr 4:2:2 8 Bit/RGB 8 Bit"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"slug": "ilce-7m3-body-kit",
+		"name": "ILCE-7M3 Body / Kit",
+		"price": 2599,
+		"marketingProductName": "Alpha 7 III mit 35-mm-Vollformatbildsensor",
+		"topFeatures": [
+			"Neu entwickelter Exmor R™ CMOS 35-mm-Vollformatsensor mit 24,2 MP[FN|Anzahl effektiver Pixel (ungefähre Angabe).] und fortschrittlicher Bildverarbeitung",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde[FN|Bis zu 10 Bilder pro Sekunde im Serienaufnahmemodus „Hi+“ und bis zu 8 Bilder pro Sekunde im Serienaufnahmemodus „Hi“. Die maximale Anzahl an Bildern pro Sekunde hängt von den Kameraeinstellungen ab.]",
+			"Vollformatige 4K HDR[FN|Eine SDHC/SDXC-Karte der Klasse 10 oder höher ist für die Aufnahme von Filmen im XAVC S-Format erforderlich. Für Aufnahmen mit 100 Mbit/s ist eine Karte der UHS-Geschwindigkeitsklasse 3 oder höher erforderlich.] [FN|Schließen Sie dieses Gerät zur Wiedergabe von HDR (HLG)-Videos über ein USB-Kabel an einen HDR (HLG)-kompatiblen Fernseher von Sony an.] Videoaufnahmen und Profi-Videofunktionen"
+		],
+		"image": { "src": "ilce-7m3-body-kit.png", "alt": "ILCE-7M3 Body / Kit" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["Ca. 24,2 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["Ca. 25,3 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["EXMOR R CMOS 35-mm-Vollformatsensor (35,6 x 23,8 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Optischer Filter mit Beschichtung zum Schutz vor Aufladung und Bildsensor-Shift-Mechanismus"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": ["JPEG (DCF Version 2.0, Exif Version 2.31, MPF Baseline-kompatibel), RAW (Sony ARW 2.3 Format)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L: 6.000 x 4.000 (24 MP), M: 3.936 x 2.624 (10 MP), S: 3.008 x 2.000 (6,0 MP), APS-C L: 3.936 x 2.624 (10 MP), M: 3.008 x 2.000 (6,0 MP), S: 1.968 x 1.312 (2,6 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 6.000 x 3.376 (20 MP), M: 3.936 x 2.216 (8,7 MP), S: 3.008 x 1.688 (5,1 MP), APS-C L: 3.936 x 2.216 (8,7 MP), M: 3.008 x 1.688 (5,1 MP), S: 1.968 x 1.112 (2,2 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [Schwenkpanorama]",
+						"name": "newAlphaImageSizePixelsSweepPanorama",
+						"value": ["-"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": ["RAW, RAW & JPEG (Extra Fine, Fine, Standard), JPEG (Extra Fine, Fine, Standard)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffectMovie",
+						"value": [
+							"8 Arten: Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key, Rich-Tone-Mono"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyle",
+						"value": [
+							"Standard, Lebendig, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbstblätter, Schwarzweiß, Sepia, Style Box (1 - 6), (Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -3 bis +3))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": [
+							"Aus, Dynamikbereichsoptimierung (Auto/Level (1-5)), Automatische High Dynamic Range-Funktion (Automatische Belichtungsunterschiede, Belichtungsunterschiede (Belichtungswert 1 - 6 in Schritten von 1,0))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": ["sRGB-Standard (mit sYCC-Skala) und Adobe RGB-Standard, kompatibel mit TRILUMINOS Color"]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] },
+					{ "specType": "text", "displayName": "Unkomprimiertes RAW", "name": "newAlphaUncompressedRaw", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingMovieRecordingFormat",
+						"value": ["XAVC S, kompatibel mit AVCHD-Format Version 2.0"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": ["XAVC S: LPCM 2 Kanäle, AVCHD: Dolby® Digital (AC-3) 2 Kanäle, Dolby® Digital Stereo Creator"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": ["xvYCC Standard (x.v.Color bei Anschluss über ein HDMI Kabel) kompatibel mit TRILUMINOS Color"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffect",
+						"value": [
+							"Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyleMovies",
+						"value": [
+							"Standard, Lebendig, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbstblätter, Schwarzweiß, Sepia, Style Box (1 - 6), (Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -3 bis +3))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), NTSC",
+						"name": "newAlphaImageSizePixelsNtsc",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (30p, 100 Mbit/s), 3.840 x 2.160 (24p, 100 Mbit/s), 3.840 x 2.160 (30p, 60 Mbit/s), 3.840 x 2.160 (24p, 60 Mbit/s), XAVC S HD: 1.920 x 1.080 (120p, 100 Mbit/s), 1.920 x 1.080 (120p, 60 Mbit/s), 1.920 x 1.080 (60p, 50 Mbit/s), 1.920 x 1.080 (30p, 50 Mbit/s), 1.920 x 1.080 (24p, 50 Mbit/s), 1.920 x 1.080 (60p, 25 Mbit/s), 1.920 x 1.080 (30p, 16 Mbit/s), AVCHD: 1.920 x 1.080 (60i, 24 Mbit/s, FX), 1.920 x 1.080 (60i, 17 Mbit/s, FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), PAL",
+						"name": "newAlphaImageSizepixelsPal",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (25p, 100 M), 3.840 x 2.160 (25p, 60 M), XAVC S HD: 1.920 x 1.080 (100p, 100 M), 1.920 x 1.080(100p, 60 M), 1.920 x 1.080 (50p, 50 M), 1.920 x 1.080 (25p, 50 M), AVCHD: 1.920 x 1.080 (50i, 24 M, FX), 1.920 x 1.080 (50i, 17 M, FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": ["NTSC-Modus: 1, 2, 4, 8, 15, 30, 60, 120 Bilder pro Sekunde, PAL-Modus: 1, 2, 3, 6, 12, 25, 50, 100 Bilder pro Sekunde"]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFZEICHNUNG UND BILDGRÖSSE) ",
+						"name": "newAlphaImageSizeFrameRateBitRate",
+						"value": ["NTSC-Modus: 1920x1080 (60p, 30p, 24p), PAL-Modus: 1.920 x 1.080 (50p, 25p)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Audiopegelanzeige, Audio-Aufnahmefunktion, PAL/NTSC-Auswahlassistent, Ja (1.280 x 720 (ca. 9 Mbit/s)), TC/UB, (TC-Voreinstellung, UB-Voreinstellung, TC-Format, TC-Ausführung, TC Make, UB-Aufnahmezeit), Auto Slow Shutter, Aufnahmesteuerung, HDMI Clean-Info. (Ein/Aus wählbar), Gamma Display Assist"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "HDMI Clean Ausgang",
+						"name": "newAlphaCleanHdmiOutput",
+						"value": [
+							"3.840 x 2.160 (25p), 1.920 x 1.080 (50p), 1.920 x 1.080 (50i), 1.920 x 1.080 (24p), 1.920 x 1.080 (60p), 1.920 x 1.080 (60i), 3.840 x 2.160 (30p), 3.840 x 2.160 (24p), YCbCr 4:2:2 8 Bit/RGB 8 Bit"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"slug": "ilce-7sm3",
+		"name": "ILCE-7SM3",
+		"price": 4500,
+		"marketingProductName": "Alpha 7S III mit professionellen Video- und Foto-Funktionen",
+		"topFeatures": [
+			"Neu entwickelter 12,1-MP[FN|Effektive Pixel (ungefähre Angabe).]-Sensor und neuer BIONZ XR<sup>TM</sup> Prozessor",
+			"Professionelle Videoaufnahme mit bis zu 4K/120p[FN|Mit 10 % Bildzuschnitt.]",
+			"Hybrid-Autofokus mit hoher Leistung, optimiert für die Aufnahme von Fotos oder Videos"
+		],
+		"image": { "src": "ilce-7sm3.png", "alt": "ILCE-7SM3" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["Ca. 12,1 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["Ca. 12,9 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["EXMOR R CMOS 35-mm-Vollformatsensor (35,6 x 23,8 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Ja (optischer Filter mit Beschichtung zum Schutz vor Aufladung und Ultraschall-Vibrationsmechanismus)"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": [
+							"JPEG (DCF Version 2.0, Exif, Version 2.32, MPF Baseline-kompatibel), HEIF (MPEG-A MIAF-kompatibel), RAW (kompatibel mit dem Sony ARW 4.0 Format)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L: 4.240 x 2.832 (12 MP), M: 2.768 x 1.848 (5,1 MP), S: 2.128 x 1.416 (3,0 MP); APS-C L: 2.768 x 1.848 (5,1 MP), M: 2.128 x 1.416 (3,0 MP), S: 1.376 x 920 (1,3 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [4:3] ",
+						"name": "newAlphaImageSizePixels43",
+						"value": [
+							"35-mm-Vollformat L: 3.776 x 2.832 (11 MP), M: 2.464 x 1.848 (4,6 MP), S: 1.888 x 1.416 (2,7 MP); APS-C L: 2.464 x 1.848 (4,6 MP), M: 1.888 x 1.416 (2,7 MP), S: 1.232 x 920 (1,1 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 4.240 x 2.384 (10 MP), M: 2.768 x 1.560 (4,3 MP), S: 2.128 x 1.200 (2,6 MP), APS-C L: 2.768 x 1.560 (4,3 MP), M: 2.128 x 1.200 (2,6 MP), S: 1.376 x 776 (1,1 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [1:1] ",
+						"name": "newAlphaImageSizePixels11",
+						"value": [
+							"35-mm-Vollformat L: 2.832 x 2.832 (8 MP), M: 1.840 x 1.840 (3,4 MP), S: 1.408 x 1.408 (2,0 MP); APS-C L: 1.840 x 1.840 (3,4 MP), M: 1.408 x 1.408 (2,0 MP), S: 912 x 912 (0,8 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": [
+							"RAW (komprimiert/unkomprimiert), JPEG (extrafein/fein/Standard), HEIF (4:2:0/4:2:2) (extrafein/fein/Standard), RAW und JPEG, RAW und HEIF"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildeffekte", "name": "newAlphaPictureEffectMovie", "value": ["-"] },
+					{ "specType": "text", "displayName": "Kreatives Design", "name": "newAlphaCreativeStyle", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "KREATIVER LOOK",
+						"name": "newAlphaRecStillCreativeLook",
+						"value": ["ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Benutzerdefiniert (1-6)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": ["Aus, Optimierer für den Dynamikumfang (Auto/Pegel (1–5))"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": [
+							"sRGB-Standard (mit sYCC-Skala), Adobe RGB-Standard und Rec. ITU-R BT.2100-Standard (BT.2020-Skala).[FN|Wenn &#91;HLG-Fotos&#93; aktiviert ist.] (kompatibel mit TRILUMINOS Color)"
+						]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{ "specType": "text", "displayName": "Aufnahmeformat", "name": "newAlphaRecordingMovieRecordingFormat", "value": ["XAVC S, XAVC HS"] },
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, XAVC HS: MPEG-H HEVC/H.265"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": [
+							"XAVC S: LPCM 2 Kanäle, LPCM 2 Kanäle (48 kHz 16 Bit), LPCM 2 Kanäle (48 kHz 24 Bit)[FN|Bei der Verwendung von Zubehör, das die 4-Kanal-Ausgabe/24 Bit mit dem Multi Interface-Zubehörschuh unterstützt.], LPCM 4 Kanäle (48 kHz 24 Bit)[FN|Bei der Verwendung von Zubehör, das die 4-Kanal-Ausgabe/24 Bit mit dem Multi Interface-Zubehörschuh unterstützt.], MPEG-4 AAC-LC 2 Kanäle [FN|Proxyvideos]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": [
+							"Kompatibel mit Rec. ITU-R BT.2100-Standard (BT.2020-Skala).[FN|Wenn &#91;Gamma&#93; auf &#91;HLG&#93; und &#91;Farbmodus&#93; auf &#91;BT.2020&#93; in &#91;Bildprofil&#93; eingestellt wird] (kompatibel mit TRILUMINOS Color)"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildeffekte", "name": "newAlphaPictureEffect", "value": ["-"] },
+					{ "specType": "text", "displayName": "Kreatives Design", "name": "newAlphaCreativeStyleMovies", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "KREATIVER LOOK",
+						"name": "newAlphaCreativeLookStill",
+						"value": ["ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Benutzerdefiniert (1-6)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC HS 4K)",
+						"name": "newAlphaScreenMovieRecHs4K",
+						"value": [
+							"3.840 x 2.160 (4:2:0, 10 Bit, NTSC) (ca.): 120p (200 Mbit/s), 60p (150 Mbit/s / 75 Mbit/s / 45 Mbit/s), 24p (100 Mbit/s / 50 Mbit/s / 30 Mbit/s); 3.840 x 2.160 (4:2:0, 10 Bit, PAL) (ca.): 100p (200 Mbit/s), 50p (150 Mbit/s / 75 Mbit/s / 45 Mbit/s); 3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (ca.): 120p (280 Mbit/s), 60p (200 Mbit/s / 100 Mbit/s), 24p (100 Mbit/s / 50 Mbit/s); 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (ca.): 100p (280 Mbit/s), 50p (200 Mbit/s / 100 Mbit/s)* Details zur Bildwiederholrate[FN|24p: 23,98 BpS, 30p: 29,97 BpS, 60p: 59,94 BpS und 120p: 119,88 BpS.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S 4K)",
+						"name": "newAlphaScreenMovieRecS4K",
+						"value": [
+							"3.840 x 2.160 (4:2:0, 8 Bit, NTSC) (ca.): 120p (200 Mbit/s), 60p (150 Mbit/s), 30p (100 Mbit/s / 60 Mbit/s), 24p (100 Mbit/s / 60 Mbit/s); 3.840 x 2.160 (4:2:0, 8 Bit, PAL) (ca.): 100p (200 Mbit/s), 50p (150 Mbit/s), 25p (100 Mbit/s / 60 Mbit/s); 3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (ca.): 120p (280 Mbit/s), 60p (200 Mbit/s), 30p (140 Mbit/s), 24p (100 Mbit/s); 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (ca.): 100p (280 Mbit/s), 50p (200 Mbit/s), 25p (140 Mbit/s)* Details zur Bildwiederholrate[FN|24p: 23,98 BpS, 30p: 29,97 BpS, 60p: 59,94 BpS und 120p: 119,88 BpS.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S HD)",
+						"name": "newAlphaScreenMovieRecShd",
+						"value": [
+							"1.920 x 1.080 (4:2:0, 8 Bit, NTSC) (ca.): 120p (100 Mbit/s / 60 Mbit/s), 60p (50 Mbit/s / 25 Mbit/s), 30p (50 Mbit/s / 16 Mbit/s), 24p (50 Mbit/s); 1.920 x 1.080 (4:2:0, 8 Bit, PAL) (ca.): 100p　(100 Mbit/s / 60 Mbit/s), 50p (50 Mbit/s / 25 Mbit/s), 25p (50 Mbit/s / 16 Mbit/s); 1.920 x 1.080 (4:2:2, 10 Bit, NTSC) (ca.): 60p (50 Mbit/s), 30p (50 Mbit/s), 24p (50 Mbit/s); 1.920 x 1.080 (4:2:2, 10 Bit, PAL) (ca.): 50p (50 Mbit/s), 25p (50 Mbit/s)* Details zur Bildwiederholrate[FN|24p: 23,98 BpS, 30p: 29,97 BpS, 60p: 59,94 BpS und 120p: 119,88 BpS.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S-I 4K)",
+						"name": "newAlphaScreenMovieRecSi4K",
+						"value": [
+							"3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (ca.): 60p (600 Mbit/s), 30p (300 Mbit/s), 24p (240 Mbit/s); 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (ca.): 50p (500 Mbit/s), 25p (250 Mbit/s)* Details zur Bildwiederholrate[FN|24p: 23,98 BpS, 30p: 29,97 BpS, 60p: 59,94 BpS und 120p: 119,88 BpS.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S-I HD)",
+						"name": "newAlphaScreenMovieRecSihd",
+						"value": [
+							"1.920 x 1.080 (4:2:2, 10 Bit, NTSC) (ca.): 60p (222 Mbit/s), 30p (111 Mbit/s), 24p (89 Mbit/s); 1.920 x 1.080 (4:2:2, 10 Bit, PAL) (ca.): 50p (185 Mbit/s), 25p (93 Mbit/s)* Details zur Bildwiederholrate[FN|24p: 23,98 BpS, 30p: 29,97 BpS, 60p: 59,94 BpS und 120p: 119,88 BpS.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": [
+							"NTSC-Modus: 1, 2, 4, 8, 15, 30, 60, 120, 240 BpS[FN|Anzahl effektiver Pixel: 1.408 x 804 bei 240 oder 200 Bildern pro Sekunde. 240 oder 200 Bilder pro Sekunde nicht verfügbar bei Verwendung der Dateiformate &#91;XAVC HS 4K&#93;, &#91;XAVC S 4K&#93; oder &#91;XAVC S-I 4K&#93;.], PAL-Modus: 1, 2, 3, 6, 12, 25, 50, 100, 200 BpS[FN|Anzahl effektiver Pixel: 1.408 x 804 bei 240 oder 200 Bildern pro Sekunde. 240 oder 200 Bilder pro Sekunde nicht verfügbar bei Verwendung der Dateiformate &#91;XAVC HS 4K&#93;, &#91;XAVC S 4K&#93; oder &#91;XAVC S-I 4K&#93;.]* Details zur Bildwiederholrate[FN|24p: 23,98 BpS, 30p: 29,97 BpS, 60p: 59,94 BpS und 120p: 119,88 BpS.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Audiopegelanzeige, Audioaufnahmefunktion, PAL/NTSC-Auswahl, Proxyaufnahme (1.280 x 720 (6 Mbit/s), 1.920 x 1.080 (9 Mbit/s), 1.920 x 1.080 (16 Mbit/s)), TC/UB, Auto Slow Shutter, Gamma Display Assist, RAW-Ausgabe (HDMI)"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"slug": "ilce-7rm2",
+		"name": "ILCE-7RM2",
+		"price": 2399,
+		"marketingProductName": "Alpha 7R II mit rückwärtig belichtetem Vollformatbildsensor",
+		"topFeatures": [
+			"Verfügt über den ersten [FN|Bei Digitalkameras mit Vollformatsensor. Stand: Juni 2015, basierend auf Studien von Sony.] 42,4 MP [FN|Effektive Megapixel (ungefähre Angabe).] rückwärtig belichteten CMOS Vollformatsensor",
+			"BIONZ X™ mit extra großem ISO-Bereich von 50 bis 102400 [FN|ISO 100–25600, erweiterbar auf ISO 50–102400 für Fotoaufnahmen.]",
+			"Optimierter schneller Hybrid-Autofokus mit Phasendetektion und 399-Punkt-Brennebene."
+		],
+		"image": { "src": "ilce-7rm2.png", "alt": "ILCE-7RM2" },
+		"specs": [
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat (Standbilder)",
+						"name": "aAlphaRecordingFormat",
+						"value": ["JPEG (DCF Version 2.0, Exif Version 2.3, MPF Baseline), RAW (Sony ARW 2.3 Format)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), 3:2",
+						"name": "aAlphaRecordingImgSize32",
+						"value": [
+							"35-mm-Vollformat L: 7952 x 5304 (42 Mio.), M: 5168 x 3448 (18 Mio.), S: 3984 x 2656 (11 Mio.)",
+							"APS-C L: 5168 x 3448 (18 Mio.), M: 3984 x 2656 (11 Mio.), S: 2592 x 1728 (4,5 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), 16:9",
+						"name": "aAlphaRecordingImgSize169",
+						"value": [
+							"35-mm-Vollformat L: 7952 x 4472 (36 Mio.), M: 5168 x 2912 (15 Mio.), S: 3984 x 2240 (8,9 Mio.)",
+							"APS-C L: 5168 x 2912 (15 Mio.), M: 3984 x 2240 (8,9 Mio.), S: 2592 x 1456 (3,8 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), Schwenkpanorama",
+						"name": "aAlphaRecordingSweepPanorama",
+						"value": [
+							"Weitwinkel: Horizontal 12416 x 1856 (23 Mio.), vertikal 5536 x 2160 (12 Mio.)",
+							"Standard: Horizontal 8192 x 1856 (15 Mio.), vertikal 3872 x 2160 (8,4 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "aAlphaRecordingImgQuality",
+						"value": ["RAW, RAW und JPEG, JPEG Extra Fine, JPEG Fine, JPEG Standard"]
+					},
+					{ "specType": "text", "displayName": "RAW-Ausgang", "name": "aAlphaRecordingRawOutput", "value": ["14 Bit"] },
+					{ "specType": "text", "displayName": "Unkomprimiertes RAW", "name": "alphaUncompressedRaw", "value": ["Ja"] },
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "aAlphaRecordingPictureEffect",
+						"value": [
+							"13 Modi: Poster (Farbe, S/W), Pop Color, Retro Foto, Teilfarbfilter (R, G, B, Y), Kontrastreich Mono, Spielzeugkamera, Soft High-Key, Weichzeichner, HDR Painting, Rich-Tone -Mono, Miniatur, Wasserfarben, Illustration"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "aAlphaRecordingCreativeStyle",
+						"value": [
+							"Standard, Lebendig, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbst, Schwarzweiß, Sepia, (Kontrast, Schritte von -3 bis +3",
+							"Sättigung, Schritte von -3 bis +3",
+							"Schärfe, Schritte von -3 bis +3) (Style Box (1-6) ebenfalls mitgeliefert)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "aAlphaRecordingDynaRangeFunctions",
+						"value": [
+							"Aus, Dynamikbereichsoptimierung (Auto/Level (1-5)), Auto High Dynamic Range Funktion (Auto-Belichtungsunterschiede, Belichtungsunterschiede (EV 1,0 - 6,0, EV-Schritt 1,0))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "alphaColourSpace",
+						"value": ["sRGB-Standard (mit sYCC-Gamut) und RGB-Standard, kompatibel mit TRILUMINOSâ„¢ Color"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "aAlphaMovRecordingFormat",
+						"value": ["XAVC S, AVCHD-Format Version 2.0 kompatibel, MP4"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "aAlphaMovRecVideoCompression",
+						"value": ["XAVC S:MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264, MP4: MPEG-4 AVC/H.264"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "aAlphaMovRecAudioRecordingFormat",
+						"value": ["XAVC S:LPCM 2 Kanäle", "AVCHD: Dolby® Digital (AC-3), 2 Kanäle, Dolby® Digital Stereo Creator, MP4: MPEG-4 AAC-LC 2 Kanäle"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel)",
+						"name": "aAlphaImageSizeRecord",
+						"value": [
+							"[NTSC]: XAVC S 4K: 3840 x 2160 (30p/100 Mbit/s, 30p/60 Mbit/s, 24p/100 Mbit/s, 24p/60 Mbit/s), XAVC S HD: 1920 x 1080 (60p/50 Mbit/s, 30p/50 Mbit/s, 24p/50 Mbit/s), 1280 x 720 (120p/50 Mbit/s), AVCHD: 1920 x 1080 (60p/28 Mbit/s/PS, 60i/24 Mbit/s/FX, 60i/17 Mbit/s/FH, 24p/24 Mbit/s/FX, 24p/17 Mbit/s/FH), MP4: 1920 x 1080 (60p/28 Mbit/s, 30p/16 Mbit/s), 1280 x 720 (30p/6 Mbit/s)",
+							"[PAL]: XAVC S 4K: 3840 x 2160 (25p/100 Mbit/s, 25p/60 Mbit/s), XAVC S HD: 1920 x 1080 (50p/50 Mbit/s, 25p/50 Mbit/s), 1280 x 720 (100p/50 Mbit/s), AVCHD: 1920 x 1080 (50p/28 Mbit/s/PS, 50i/24 Mbit/s/FX, 50i/17 Mbit/s/FH, 25p/24 Mbit/s/FX, 25p/17 Mbit/s/FH), MP4: 1920 x 1080 (50p/28 Mbit/s, 25p/16 Mbit/s), 1280 x 720 (25p/6 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), NTSC*",
+						"name": "aAlphaMovRecImgSizeNtsc",
+						"value": [
+							"XAVC S 4K: 3840 x 2160 (30p/100 Mbit/s, 30p/60 Mbit/s, 24p/100 Mbit/s, 24p/60 Mbit/s), XAVC S HD: 1920 x 1080 (60p/50 Mbit/s, 30p/50 Mbit/s, 24p/50 Mbit/s), 1280 x 720 (120p/50 Mbit/s), AVCHD: 1920 x 1080 (60p/28 Mbit/s/PS, 60i/24 Mbit/s/FX, 60i/17 Mbit/s/FH, 24p/24 Mbit/s/FX, 24p/17 Mbit/s/FH), MP4: 1920 x 1080 (60p/28 Mbit/s, 30p/16 Mbit/s), 1280 x 720 (30p/6 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), PAL",
+						"name": "aAlphaMovRecImgSizePal",
+						"value": [
+							"XAVC S 4K: 3840 x 2160 (25p/100 Mbit/s, 25p/60 Mbit/s), XAVC S HD: 1920 x 1080 (50p/50 Mbit/s, 25p/50 Mbit/s), 1280 x 720 (100p/50 Mbit/s), AVCHD: 1920 x 1080 (50p/28 Mbit/s/PS, 50i/24 Mbit/s/FX, 50i/17 Mbit/s/FH, 25p/24 Mbit/s/FX, 25p/17 Mbit/s/FH), MP4: 1920 x 1080 (50p,/28 Mbit/s, 25p/16 Mbit/s), 1280 x 720 (25p/6 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Picture Profile",
+						"name": "alphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP7 Parameter (Schwarzpegel, Gamma (Video, Foto, Cine1-4, ITU709, ITU709 [800 %], S-Log2), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphasenanlage, Farbtiefe, Details, Kopieren, Zurücksetzen)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "aAlphaMovRecOtherMovFunctions",
+						"value": [
+							"Audiopegelanzeige, Audio-Aufnahmefunktion, AF-Tracking-Empfindlichkeit, Reaktionszeit des Autofokus, Auto Slow Shutter, HDMI-Info. Display (Ein/Aus wählbar), Zeitcode/Stempel, Picture Profile, kreatives Design, Bildeffekt, Aufnahmesteuerung, doppelte Aufnahmefunktion, Vorlageneinstellung, PAL/NTSC-Auswahlassistent"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "alphaColorspace2",
+						"value": ["xvYCC Standard (x.v. Color bei Anschluss über ein HDMI® Kabel) kompatibel mit TRILUMINOSâ„¢ Color"]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 5,
+		"slug": "ilce-7rm4a",
+		"name": "ILCE-7RM4A",
+		"price": 3700,
+		"marketingProductName": "Alpha 7R IV 35-mm-Vollbildkamera mit 61,0 MP",
+		"topFeatures": [
+			"Exmor R™ CMOS 35-mm-Vollformatsensor mit 61,0 MP[FN|Effektive Pixel (ungefähre Angabe).] und High-Speed-Bildprozessor",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde[FN|Im Serienaufnahmemodus „Hi+“ und bis zu 8 Bilder pro Sekunde im Serienaufnahmemodus „Hi“. Die maximale Anzahl an Bildern pro Sekunde hängt von den Kameraeinstellungen ab.]",
+			"Komfort und Zuverlässigkeit für anspruchsvolle Profis"
+		],
+		"image": { "src": "ilce-7rm4a.png", "alt": "ILCE-7RM4A" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["ca. 61,0 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["Ca. 62,5 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["Exmor R CMOS 35-mm-Vollformatsensor (35,7 x 23,8 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Optischer Filter mit Beschichtung zum Schutz vor Aufladung und Bildsensor-Shift-Mechanismus"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": ["JPEG (DCF Version 2.0, Exif Version 2.31, MPF Baseline-kompatibel), RAW (Sony ARW 2.3 Format)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L: 9.504 x 6.336 (60 MP), M: 6.240 x 4.160 (26 MP), S: 4.752 x 3.168 (15 MP), APS-C L: 6.240 x 4.160 (26 MP), M: 4.752 x 3.168 (15 MP), S: 3.120 x 2.080 (6,5 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [4:3] ",
+						"name": "newAlphaImageSizePixels43",
+						"value": [
+							"35-mm-Vollformat L: 8.448 x 6.336 (54 MP), M: 5.552 x 4.160 (23 MP), S: 4.224 x 3.168 (13 MP), APS-C L: 5.552 x 4.160 (23 MP), M: 4.224 x 3.168 (13 MP), S: 2.768 x 2.080 (5,8 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 9.504 x 5.344 (51 MP), M: 6.240 x 3.512 (22 MP), S: 4.752 x 2.672 (13 MP), APS-C L: 6.240 x 3.512 (22 MP), M: 4.752 x 2.672 (13 MP), S: 3.120 x 1.752 (5,5 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [1:1] ",
+						"name": "newAlphaImageSizePixels11",
+						"value": [
+							"35-mm-Vollformat L: 6.336 x 6.336 (40 MP), M: 4.160 x 4.160 (17 MP), S: 3.168 x 3.168 (10 MP), APS-C L: 4.160 x 4.160 (17 MP), M: 3.168 x 3.168 (10 MP), S: 2.080 x 2.080 (4,3 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [Schwenkpanorama]",
+						"name": "newAlphaImageSizePixelsSweepPanorama",
+						"value": ["-"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": ["RAW, RAW und JPEG (Extra Fine, Fine, Standard), JPEG (Extra Fine, Fine, Standard)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffectMovie",
+						"value": [
+							"7 Typen: Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyle",
+						"value": [
+							"Standard, Lebendig, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbst, Schwarzweiß, Sepia, Style Box (1-6), (Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -5 bis +5))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": ["Aus, Optimierer für den Dynamikumfang (Auto/Pegel (1–5))"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": ["sRGB-Standard (mit sYCC-Gamut) und Adobe RGB-Standard, kompatibel mit TRILUMINOS Color"]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] },
+					{ "specType": "text", "displayName": "Unkomprimiertes RAW", "name": "newAlphaUncompressedRaw", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingMovieRecordingFormat",
+						"value": ["XAVC S, kompatibel mit AVCHD-Format Version 2.0"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": ["XAVC S: LPCM 2 Kanäle, AVCHD: Dolby® Digital (AC-3) 2 Kanäle, Dolby® Digital Stereo Creator"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": ["xvYCC Standard (x.v.Color bei Anschluss über ein HDMI Kabel) kompatibel mit TRILUMINOS Color"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffect",
+						"value": [
+							"Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyleMovies",
+						"value": [
+							"Standard, Lebendig, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbst, Schwarzweiß, Sepia, Style Box (1-6), (Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -5 bis +5))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), NTSC",
+						"name": "newAlphaImageSizePixelsNtsc",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (30p, 100 Mbit/s), 3.840 x 2.160 (24p, 100 Mbit/s), 3.840 x 2.160 (30p, 60 Mbit/s), 3.840 x 2.160 (24p, 60 Mbit/s), XAVC S HD: 1.920 x 1.080 (120p, 100 Mbit/s), 1.920 x 1.080 (120p, 60 Mbit/s), 1.920 x 1.080 (60p, 50 Mbit/s), 1.920 x 1.080 (30p, 50 Mbit/s), 1.920 x 1.080 (24p, 50 Mbit/s), 1.920 x 1.080 (60p, 25 Mbit/s), 1.920 x 1.080 (30p, 16 Mbit/s), AVCHD: 1.920 x 1.080 (60i, 24 Mbit/s, FX), 1.920 x 1.080 (60i, 17 Mbit/s, FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), PAL",
+						"name": "newAlphaImageSizepixelsPal",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (25p, 100 Mbit/s), 3.840 x 2.160 (25p, 60 Mbit/s), XAVC S HD: 1.920 x 1.080 (100p, 100 Mbit/s), 1.920 x 1.080 (100p, 60 Mbit/s), 1.920 x 1.080 (50p, 50 Mbit/s), 1.920 x 1.080 (25p, 50 Mbit/s), 1.920 x 1.080 (50p, 25 Mbit/s), 1.920 x 1.080 (25p, 16 Mbit/s), AVCHD: 1.920 x 1.080 (50i, 24 Mbit/s, FX), 1.920 x 1.080 (50i, 17 Mbit/s, FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": ["NTSC-Modus: 1, 2, 4, 8, 15, 30, 60, 120 Bilder pro Sekunde, PAL-Modus: 1, 2, 3, 6, 12, 25, 50, 100 Bilder pro Sekunde"]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFZEICHNUNG UND BILDGRÖSSE) ",
+						"name": "newAlphaImageSizeFrameRateBitRate",
+						"value": ["NTSC-Modus: 1.920 x 1.080 (60p, 30p, 24p), PAL-Modus: 1.920 x 1.080 (50p, 25p)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Audiopegelanzeige, Audio-Aufnahmefunktion, PAL/NTSC-Auswahlassistent, Proxy-Aufnahmen (1280 x 720 (ca. 9 Mbit/s)), TC/UB, (TC-Voreinstellung, UB-Voreinstellung, TC-Format, TC-Ausführung, TC Make, UB-Aufnahmezeit), Auto Slow Shutter, Aufnahmesteuerung, HDMI Clean-Info. (Ein/Aus wählbar), Gamma Display Assist"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "HDMI® Ausgang",
+						"name": "newAlphaHdmiOutput",
+						"value": [
+							"3840 x 2160 (25p), 1920 x 1080 (50p), 1920 x 1080 (50i), 1920 x 1080 (24p), 1920 x 1080 (60p), 1920 x 1080 (60i), 3840 x 2160 (30p), 3840 x 2160 (24p), YCbCr 4:2:2 8 Bit/RGB 8 Bit"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 6,
+		"slug": "ilce-7c",
+		"name": "ILCE-7C",
+		"price": 2250,
+		"marketingProductName": "Kompakte Vollformatkamera Alpha 7C",
+		"topFeatures": [
+			"Das weltweit kleinste und leichteste[FN|Unter den Vollformat-Wechselobjektivkameras mit integrierter optischer Bildstabilisierung. Stand Pressemitteilung im September 2020. Studie von Sony.] Vollformat-Kameragehäuse mit Stabilisierung",
+			"Exmor R™ CMOS-Vollformat-Bildsensor mit 24,2 MP[FN|Effektive Pixel (ungefähre Angabe).]",
+			"Vielseitige 4K Videoaufnahme für Kreative"
+		],
+		"image": { "src": "ilce-7c.png", "alt": "ILCE-7C" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["Ca. 24,2 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["Ca. 25,3 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["Exmor R CMOS-35-mm-Vollformatsensor (35,6 x 23,8 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Ja (Optischer Filter mit Beschichtung und Sensor-Shift-Mechanismus)"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": ["JPEG (DCF Version 2.0, Exif Version 2.32, MPF Baseline), RAW (Sony ARW 2.3 Format)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L: 6.000 x 4.000 (24 MP), M: 3.936 x 2.624 (10 MP), S: 3.008 x 2.000 (6,0 MP), APS-C L: 3.936 x 2.624 (10 MP), M: 3.008 x 2.000 (6,0 MP), S: 1.968 x 1.312 (2,6 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [4:3] ",
+						"name": "newAlphaImageSizePixels43",
+						"value": [
+							"35-mm-Vollformat L: 5.328 x 4.000 (21 MP), M: 3.488 x 2.624 (9,2 MP), S: 2.656 x 2.000 (5,3 MP), APS-C L: 3.488 x 2.624 (9,2 MP), M: 2.656 x 2.000 (5,3 MP), S: 1.744 x 1.312 (2,3 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 6.000 x 3.376 (20 MP), M: 3.936 x 2.216 (8,7 MP), S: 3.008 x 1.688 (5,1 MP), APS-C L: 3.936 x 2.216 (8,7 MP), M: 3.008 x 1.688 (5,1 MP), S: 1.968 x 1.112 (2,2 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [1:1] ",
+						"name": "newAlphaImageSizePixels11",
+						"value": [
+							"35-mm-Vollformat L: 4.000 x 4.000 (16 MP), M: 2.624 x 2.624 (6,9 MP), S: 2.000 x 2.000 (4,0 MP), APS-C L: 2.624 x 2.624 (6,9 MP), M: 2.000 x 2.000 (4,0 MP), S: 1.312 x 1.312 (1,7 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": ["RAW (Komprimiert/Unkomprimiert), JPEG (Extra Fine/Fine/Standard), RAW und JPEG"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffectMovie",
+						"value": [
+							"8 Typen: Spielzeugkameraeffekt (Normal/Kühl/Warm/Grün/Magenta), Pop Color, Poster (Farbe, S/W), Retro-Foto, Soft High Key, Teilfarbfilter (R/G/B/Y), Hochkontrast-Mono, Rich-Tone-Mono"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyle",
+						"value": [
+							"Standard, Lebhaft, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbstlaub, Schwarzweiß, Sepia, Style Box (1–6)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{ "specType": "text", "displayName": "KREATIVER LOOK", "name": "newAlphaRecStillCreativeLook", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": ["Aus, Optimierer für den Dynamikumfang, Auto High Dynamic Range-Funktion"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": ["sRGB-Standard (mit sYCC-Gamut) und Adobe RGB-Standard, kompatibel mit TRILUMINOS Color"]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{ "specType": "text", "displayName": "Aufnahmeformat", "name": "newAlphaRecordingMovieRecordingFormat", "value": ["XAVC S"] },
+					{ "specType": "text", "displayName": "Videokomprimierung", "name": "newAlphaVideoCompression", "value": ["XAVC S: MPEG-4 AVC/H.264"] },
+					{ "specType": "text", "displayName": "Audioaufnahmeformat", "name": "newAlphaAudioRecordingFormat", "value": ["XAVC S: LPCM, 2 Kanäle"] },
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": ["xvYCC Standard (x.v.Color bei Anschluss über ein HDMI Kabel) kompatibel mit TRILUMINOS Color"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffect",
+						"value": [
+							"7 Typen: Spielzeugkameraeffekt (Normal/Kühl/Warm/Grün/Magenta), Pop Color, Poster (Farbe, S/W), Retro-Foto, Soft High Key, Teilfarbfilter (R/G/B/Y), Hochkontrast-Mono"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyleMovies",
+						"value": [
+							"Standard, Lebhaft, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbstlaub, Schwarzweiß, Sepia, Style Box (1–6)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{ "specType": "text", "displayName": "KREATIVER LOOK", "name": "newAlphaCreativeLookStill", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S 4K)",
+						"name": "newAlphaScreenMovieRecS4K",
+						"value": [
+							"3.840 x 2.160 (4:2:0, 8 Bit, NTSC) (ca.) 30p (100 Mbit/s / 60 Mbit/s), 3.840 x 2.160 (4:2:0, 8 Bit, NTSC) (ca.) 24p (100 Mbit/s / 60 Mbit/s), 3.840 x 2.160 (4:2:0, 8 Bit, PAL) (ca.) 25p (100 Mbit/s / 60 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S HD)",
+						"name": "newAlphaScreenMovieRecShd",
+						"value": [
+							"1.920 x 1.080 (4:2:0, 8 Bit, NTSC) (ca.) 120p (100 Mbit/s / 60 Mbit/s), 1.920 x 1.080 (4:2:0, 8 Bit, NTSC) (ca.) 60p (50 Mbit/s / 25 Mbit/s), 1.920 x 1.080 (4:2:0, 8 Bit, NTSC) (ca.) 30p (50 Mbit/s / 16 Mbit/s), 1.920 x 1.080 (4:2:0, 8 Bit, NTSC) (ca.) 24p (50 Mbit/s), 1.920 x 1.080 (4:2:0, 8 Bit, PAL) (ca.) 100p (100 Mbit/s / 60 Mbit/s), 1.920 x 1.080 (4:2:0, 8 Bit, PAL) (ca.) 50p (50 Mbit/s / 25 Mbit/s), 1.920 x 1.080 (4:2:0, 8 Bit, PAL) (ca.) 25p (50 Mbit/s / 16 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": [
+							"NTSC-Modus: 1 Bild pro Sekunde, 2 Bilder pro Sekunde, 4 Bilder pro Sekunde, 8 Bilder pro Sekunde, 15 Bilder pro Sekunde, 30 Bilder pro Sekunde, 60 Bilder pro Sekunde, 120 Bilder pro Sekunde, PAL-Modus: 1 Bild pro Sekunde, 2 Bilder pro Sekunde, 3 Bilder pro Sekunde, 6 Bilder pro Sekunde, 12 Bilder pro Sekunde, 25 Bilder pro Sekunde, 50 Bilder pro Sekunde, 100 Bilder pro Sekunde"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": ["Audiopegelanzeige, Audio-Aufnahmefunktion, PAL/NTSC-Auswahlassistent, TC/UB, Auto Slow Shutter, Gamma Display Assist"]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 7,
+		"slug": "ilce-7m4",
+		"name": "ILCE-7M4",
+		"price": 3000,
+		"marketingProductName": "α7 IV Vollformat-Hybrid-Kamera",
+		"topFeatures": [
+			"Rückwärtig belichteter Exmor R™ CMOS Vollformat-Bildsensor mit 33,0 Megapixel[FN|Effektiv, ca.]",
+			"BIONZ XR™ für Fotoaufnahmen und Videofunktionen auf Basis unserer Flaggschiff-Produkte",
+			"Sofortiges Streaming und Teilen von hochwertigen Inhalten"
+		],
+		"image": { "src": "ilce-7m4.png", "alt": "ILCE-7M4" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["Ca. 33,0 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["Ca. 34,1 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["Exmor R CMOS-35-mm-Vollformatsensor (35,9 x 23,9 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Ja (Optischer Filter mit Beschichtung und Sensor-Shift-Mechanismus)"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": [
+							"JPEG-kompatibel (DCF Version 2.0, Exif Version 2.32, MPF Baseline-kompatibel), HEIF (MPEG-A MIAF-kompatibel), RAW (kompatibel mit dem Sony ARW 4.0 Format)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": [
+							"RAW (komprimiert/verlustfrei komprimiert/unkomprimiert), JPEG (Extra Fine/Fine/Standard/Light), HEIF (4:2:0/4:2:2) (Extra Fine/Fine/Standard/Light), RAW und JPEG, RAW und HEIF"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildeffekte", "name": "newAlphaPictureEffectMovie", "value": ["-"] },
+					{ "specType": "text", "displayName": "Kreatives Design", "name": "newAlphaCreativeStyle", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP11) Parameter: Schwarzpegel, Gamma (Film, Foto, S-Cinetone, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphasenanlage, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "KREATIVER LOOK",
+						"name": "newAlphaRecStillCreativeLook",
+						"value": ["ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Benutzerdefiniert (1-6)"]
+					},
+					{ "specType": "text", "displayName": "Bildeffekte", "name": "newAlphaSoftSkinRecStillImages", "value": ["Ja"] },
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": ["Aus, Optimierer für den Dynamikbereich"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": [
+							"sRGB-Standard (mit sYCC-Skala), Adobe RGB-Standard und Rec. ITU-R BT.2100-Standard (BT.2020-Skala).[FN|Wenn &#91;HLG-Fotos&#93; aktiviert ist.]"
+						]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{ "specType": "text", "displayName": "Aufnahmeformat", "name": "newAlphaRecordingMovieRecordingFormat", "value": ["XAVC S, XAVC HS"] },
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, XAVC HS: MPEG-H HEVC/H.265"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": [
+							"LPCM 2 Kanäle (48 kHz 16 Bit), LPCM 2 Kanäle (48 kHz 24 Bit)[FN|Bei der Verwendung von Zubehör, das die 4-Kanal-Ausgabe/24 Bit mit dem Multi Interface Shoe unterstützt.], LPCM 4 Kanäle (48 kHz 24 Bit)[FN|Bei der Verwendung von Zubehör, das die 4-Kanal-Ausgabe/24 Bit mit dem Multi Interface Shoe unterstützt.], MPEG-4 AAC-LC 2 Kanäle[FN|Proxyvideos]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": [
+							"Aufnahmemodus kompatibel mit ITU-R BT.2100-Standard (BT.2020-Skala)[FN|Wenn &#91;Gamma&#93; auf &#91;HLG&#93; und &#91;Color Mode&#93; auf &#91;BT.2020&#93; in &#91;Picture Profile&#93; eingestellt wird.]"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildeffekte", "name": "newAlphaPictureEffect", "value": ["-"] },
+					{ "specType": "text", "displayName": "Kreatives Design", "name": "newAlphaCreativeStyleMovies", "value": ["-"] },
+					{ "specType": "text", "displayName": "SOFT SKIN-EFFEKT", "name": "newAlphaSoftSkinRecMovie", "value": ["Ja"] },
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP11) Parameter: Schwarzpegel, Gamma (Film, Foto, S-Cinetone, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphasenanlage, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "KREATIVER LOOK",
+						"name": "newAlphaCreativeLookStill",
+						"value": ["ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Benutzerdefiniert (1-6)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC HS 4K)",
+						"name": "newAlphaScreenMovieRecHs4K",
+						"value": [
+							"3.840 x 2.160 (4:2:0, 10 Bit, NTSC) (ca.): 60p (150 Mbit/s/75 Mbit/s/45 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.][FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (100 Mbit/s/50 Mbit/s/30 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:0, 10 Bit, PAL) (ca.): 50p (150 Mbit/s/75 Mbit/s/45 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.], 3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (ca.): 60p (200 Mbit/s/100 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.][FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (100 Mbit/s/50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (ca.): 50p (200 Mbit/s/100 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S 4K)",
+						"name": "newAlphaScreenMovieRecS4K",
+						"value": [
+							"3.840 x 2.160 (4:2:0, 8 Bit, NTSC) (ca.): 60p (150 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.][FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 30p (100 Mbit/s/60 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (100 Mbit/s/60 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:0, 8 Bit, PAL) (ca.): 50p (150 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.], 25p (100 Mbit/s/60 Mbit/s), 3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (ca.): 60p (200 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.][FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 30p (140 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (100 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (ca.): 50p (200 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.], 25p (140 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S HD)",
+						"name": "newAlphaScreenMovieRecShd",
+						"value": [
+							"1.920 x 1.080 (4:2:0, 8 Bit, NTSC) (ca.): 120p (100 Mbit/s/60 Mbit/s)[FN|Wenn &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt ist, ist die Anzahl effektiver Pixel: 1.570 x 886 bei 120 oder 100 BpS.][FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 60p (50 Mbit/s/25 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 30p (50 Mbit/s/16 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 1.920 x 1.080 (4:2:0, 8 Bit, PAL) (ca.): 100p　(100 Mbit/s/60 Mbit/s), 50p (50 Mbit/s/25 Mbit/s), 25p (50 Mbit/s/16 Mbit/s), 1.920 x 1.080 (4:2:2, 10 Bit, NTSC) (ca.): 60p (50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 30p (50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 1.920 x 1.080 (4:2:2, 10 Bit, PAL) (ca.): 50p (50 Mbit/s), 25p (50 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S-I 4K)",
+						"name": "newAlphaScreenMovieRecSi4K",
+						"value": [
+							"3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (ca.): 60p (600 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.][FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 30p (300 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (240 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (ca.): 50p (500 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt und gesperrt.], 25p (250 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S-I HD)",
+						"name": "newAlphaScreenMovieRecSihd",
+						"value": [
+							"1.920 x 1.080 (4:2:2, 10 Bit, NTSC) (ca.): 60p (222 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 30p (111 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (89 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 1.920 x 1.080 (4:2:2, 10 Bit, PAL) (ca.): 50p (185 Mbit/s), 25p (93 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": [
+							"NTSC-Modus: 1 BpS, 2 BpS, 4 BpS, 8 BpS, 15 BpS, 30 BpS, 60 BpS, 120 BpS[FN|120/100 BpS ist mit den Dateiformaten &#91;XAVC HS 4K&#93;, &#91;XAVC S 4K&#93; und &#91;XAVC S-I 4K&#93; nicht verfügbar.][FN|Wenn &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt ist, ist die Anzahl effektiver Pixel: 1.570 x 886 bei 120 oder 100 BpS.], PAL-Modus: 1 BpS, 2 BpS, 3 BpS, 6 BpS, 12 BpS, 25 BpS, 50 BpS, 100 BpS[FN|120/100 BpS ist mit den Dateiformaten &#91;XAVC HS 4K&#93;, &#91;XAVC S 4K&#93; und &#91;XAVC S-I 4K&#93; nicht verfügbar.][FN|Wenn &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt ist, ist die Anzahl effektiver Pixel: 1.570 x 886 bei 120 oder 100 BpS.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Audiopegelanzeige, Audioaufnahmefunktion, PAL/NTSC-Auswahl, Proxyaufnahme (1.280 x 720 (ca. 6 Mbit/s), 1.920 x 1.080 (ca. 9 Mbit/s), 1.920 x 1.080 (ca. 16 Mbit/s)), TC/UB, Auto Slow Shutter, Gamma Display Assist"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 8,
+		"slug": "ilce-7m2-body-kit",
+		"name": "ILCE-7M2 BODY / KIT",
+		"price": 1300,
+		"marketingProductName": "Alpha 7 II E-Mount Kamera mit Vollformatsensor",
+		"topFeatures": [
+			"Vollformatkamera mit 5-Achsen-Bildstabilisierung",
+			"Effizienter und verbesserter schneller Hybrid-AF",
+			"24,3 MP, 35 mm Exmor™ CMOS Sensor"
+		],
+		"image": { "src": "ilce-7m2-body-kit.png", "alt": "ILCE-7M2 BODY / KIT" },
+		"specs": [
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), 3:2",
+						"name": "aAlphaRecordingImgSize32",
+						"value": [
+							"35-mm-Vollformat L: 6.000 x 4.000 (24 MP), M: 3.936 x 2.624 (10 MP), S: 3008 x 2000 (6,0 Mio.)",
+							"APS-C L: 3936 x 2624 (10 Mio.), M: 3008 x 2000 (6,0 Mio.), S: 1968 x 1312 (2,6 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), 16:9",
+						"name": "aAlphaRecordingImgSize169",
+						"value": [
+							"35-mm-Vollformat L: 6.000 x 3.376 (20 Mio.), M: 3.936 x 2.216 (8,7 Mio.), S: 3.008 x 1.688 (5,1 Mio.)",
+							"APS-C L: 3.936 x 2.216 (8,7 Mio.), M: 3.008 x 1.688 (5,1 Mio.), S: 1.968 x 1.112 (2,2 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), Schwenkpanorama",
+						"name": "aAlphaRecordingSweepPanorama",
+						"value": [
+							"Weitwinkel: Querformat 12.416 x 1.856 (23 Mio.), Hochformat 5.536 x 2.160 (12 Mio.)",
+							"Standard: Querformat 8.192 x 1.856 (15 Mio.), Hochformat 3.872 x 2.160 (8,4 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "aAlphaRecordingImgQuality",
+						"value": ["RAW, RAW und JPEG, JPEG Extra Fine, JPEG Fine, JPEG Standard"]
+					},
+					{ "specType": "text", "displayName": "RAW-Ausgang", "name": "aAlphaRecordingRawOutput", "value": ["14 Bit"] },
+					{ "specType": "text", "displayName": "Unkomprimiertes RAW", "name": "alphaUncompressedRaw", "value": ["Ja"] },
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "aAlphaRecordingPictureEffect",
+						"value": [
+							"Poster (Farbe):",
+							"Poster (SW):",
+							"Pop Color",
+							"Retro",
+							"Teilfarbfilter (R, G, B, Y)",
+							"Hochkontrast-Monochrom",
+							"Spielzeugkameraeffekt (Normale/ Kühlen/ Kühl/ Warm/ Grün/ Magenta)",
+							"Soft High Key-Effekt"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "aAlphaRecordingCreativeStyle",
+						"value": [
+							"Standard",
+							"Lebensecht",
+							"Neutral",
+							"Löschen",
+							"Tief",
+							"Leicht",
+							"Porträt",
+							"Landschaftsfotografie",
+							"Sonnenuntergang",
+							"Nachtaufnahme",
+							"Herbstblätter",
+							"Schwarz und Weiß",
+							"Sepia",
+							"Style Box"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "aAlphaRecordingDynaRangeFunctions",
+						"value": [
+							"Aus",
+							"Optimierer für den Dynamikumfang (Auto/Pegel (1 - 5))",
+							"Automatische High Dynamic Range-Funktion (Automatische Belichtungsunterschiede, Belichtungsunterschiede (Belichtungswert 1 - 6 in Schritten von 1,0)"
+						]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "aAlphaMovRecordingFormat",
+						"value": ["AVCHD 2.0 / MP4 / XAVC S (bis zu 1.920 x 1.080/60p, 50 Mbit/s)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "aAlphaMovRecVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264", "AVCHD: MPEG-4 AVC/H.264", "MP4: MPEG-4 AVC/H.264"]
+					},
+					{ "specType": "text", "displayName": "Audioaufnahmeformat", "name": "aAlphaMovRecAudioRecordingFormat", "value": ["AVCHD / MP4 / XAVC S"] },
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "aAlphaMovRecOtherMovFunctions",
+						"value": [
+							"Audiopegelanzeige, Audio-Aufnahmefunktion, Auto Slow Shutter, HDMI Info Display (Ein/Aus wählbar), Zeitcode/Stempel, doppelte Aufnahmefunktion, Auto Slow Shutter, Aufnahmesteuerung"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 9,
+		"slug": "ilce-7rm5",
+		"name": "ILCE-7RM5",
+		"price": 4500,
+		"marketingProductName": "α7R V hochauflösende Vollformatkamera",
+		"topFeatures": [
+			"Eine neu entwickelte KI-Verarbeitungseinheit",
+			"Rückwärtig belichteter Exmor R™ CMOS Vollformatsensor mit 61,0 Megapixel[FN|Effektive Pixel (ungefähre Angabe).]",
+			"Professionelle Videoaufnahmen mit bis zu 8K 24p (25p)[FN|Zeitlupe und Zeitraffer stehen bei XAVC HS 8K Videoaufnahmen nicht zur Verfügung. &#91;APS-C/S35 Aufnahme&#93; ist auf &#91;Off&#93; eingestellt. Der Sichtwinkel beträgt etwa 1,2-fach.] und 4K 60p (50p)[FN|&#91;APS-C/S35 Aufnahme&#93; ist auf &#91;Off&#93; eingestellt. Sichtwinkel beträgt etwa 1,2-fach bei Videoaufnahmen mit 4K 60p (50p).]"
+		],
+		"image": { "src": "ilce-7rm5.png", "alt": "ILCE-7RM5" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["ca. 61,0 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["Ca. 62,5 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["Exmor R CMOS 35-mm-Vollformatsensor (35,7 x 23,8 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Ja (optischer Filter mit Beschichtung zum Schutz vor Aufladung und Ultraschall-Vibrationsmechanismus)"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": [
+							"JPEG-kompatibel (DCF Version 2.0, Exif Version 2.32, MPF Baseline-kompatibel), HEIF (MPEG-A MIAF-kompatibel), RAW (kompatibel mit dem Sony ARW 4.0 Format)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L: 9.504 x 6.336 (60 Mio.), M: 6.240 x 4.160 (26 Mio.), S: 4.752 x 3.168 (15 Mio.), APS-C M: 6.240 x 4.160 (26 Mio.), S: 4.752 x 3.168 (15 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [4:3] ",
+						"name": "newAlphaImageSizePixels43",
+						"value": [
+							"35-mm-Vollformat L: 8.448 x 6.336 (54 Mio.), M: 5.552 x 4.160 (23 Mio.), S: 4.224 x 3.168 (13 Mio.), APS-C M: 5.552 x 4.160 (23 Mio.), S: 4.224 x 3.168 (13 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 9.504 x 5.344 (51 Mio.), M: 6.240 x 3.512 (22 Mio.), S: 4.752 x 2.672 (13 Mio.), APS-C M: 6.240 x 3.512 (22 Mio.), S: 4.752 x 2.672 (13 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [1:1] ",
+						"name": "newAlphaImageSizePixels11",
+						"value": [
+							"35-mm-Vollformat L: 6.336 x 6.336 (40 Mio.), M: 4.160 x 4.160 (17 Mio.), S: 3.168 x 3.168 (10 Mio.), APS-C M: 4.160 x 4.160 (17 Mio.), S: 3.168 x 3.168 (10 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": [
+							"RAW (komprimiert/verlustfrei komprimiert (L/M/S)/unkomprimiert), JPEG (Extra Fine/Fine/Standard/Light), HEIF (4:2:0/4:2:2) (Extra Fine/Fine/Standard/Light), RAW und JPEG, RAW und HEIF"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildeffekte", "name": "newAlphaPictureEffectMovie", "value": ["-"] },
+					{ "specType": "text", "displayName": "Kreatives Design", "name": "newAlphaCreativeStyle", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP11) Parameter: Schwarzpegel, Gamma (Film, Foto, S-Cinetone, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphasenanlage, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "KREATIVER LOOK",
+						"name": "newAlphaRecStillCreativeLook",
+						"value": ["ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Benutzerdefiniert (1-6)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": ["Aus, Optimierer für den Dynamikbereich"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": [
+							"sRGB-Standard (mit sYCC-Skala), Adobe RGB-Standard und Rec. ITU-R BT.2100-Standard (BT.2020-Skala).[FN|Wenn &#91;HLG-Fotos&#93; aktiviert ist.]"
+						]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{ "specType": "text", "displayName": "Aufnahmeformat", "name": "newAlphaRecordingMovieRecordingFormat", "value": ["XAVC S, XAVC HS"] },
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, XAVC HS: MPEG-H HEVC/H.265"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": [
+							"LPCM 2 Kanäle (48 kHz 16 Bit), LPCM 2 Kanäle (48 kHz 24 Bit)[FN|Bei der Verwendung von Zubehör, das die 4-Kanal-Ausgabe/24 Bit mit dem Multi Interface-Zubehörschuh unterstützt.], LPCM 4 Kanäle (48 kHz 24 Bit)[FN|Bei der Verwendung von Zubehör, das die 4-Kanal-Ausgabe/24 Bit mit dem Multi Interface-Zubehörschuh unterstützt.], MPEG-4 AAC-LC 2 Kanäle [FN|Proxyvideos]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": [
+							"Aufnahme kompatibel mit ITU-R BT.2100-Standard (BT.2020-Skala)[FN|Wenn &#91;Gamma&#93; auf &#91;HLG&#93; und &#91;Color Mode&#93; auf &#91;BT.2020&#93; in &#91;Picture Profile&#93; eingestellt wird.]"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildeffekte", "name": "newAlphaPictureEffect", "value": ["-"] },
+					{ "specType": "text", "displayName": "Kreatives Design", "name": "newAlphaCreativeStyleMovies", "value": ["-"] },
+					{ "specType": "text", "displayName": "SOFT SKIN-EFFEKT", "name": "newsoftskineffect", "value": ["Ja"] },
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP11) Parameter: Schwarzpegel, Gamma (Film, Foto, S-Cinetone, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphasenanlage, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "KREATIVER LOOK",
+						"name": "newAlphaCreativeLookStill",
+						"value": ["ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Benutzerdefiniert (1-6)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC HS 8K)",
+						"name": "newmovierecordintsystems",
+						"value": [
+							"7.680 x 4.320 (4:2:0, 10 Bit, NTSC) (ca.): 24p (400 Mbit/s / 200 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS][FN|Bei Videoaufnahmen mit 8K 24p/25p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 7.680 x 4.320 (4:2:0, 10 Bit, PAL) (ca.): 25p (400 Mbit/s / 200 Mbit/s)[FN|Bei Videoaufnahmen mit 8K 24p/25p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC HS 4K)",
+						"name": "newAlphaScreenMovieRecHs4K",
+						"value": [
+							"3.840 x 2.160 (4:2:0, 10 Bit, NTSC) (ca.): 60p (150 Mbit/s / 75 Mbit/s / 45 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS][FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 24p (100 Mbit/s / 50 Mbit/s / 30 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:0, 10 Bit, PAL) (ca.): 50p (150 Mbit/s / 75 Mbit/s / 45 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (ca.): 60p (200 Mbit/s / 100 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS][FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 24p (100 Mbit/s / 50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (ca.): 50p (200 Mbit/s / 100 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S 4K)",
+						"name": "newAlphaScreenMovieRecS4K",
+						"value": [
+							"3.840 x 2.160 (4:2:0, 8 Bit, NTSC) (ca.): 60p (150 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS][FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 30p (100 Mbit/s / 60 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (100 Mbit/s / 60 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:0, 8 Bit, PAL) (ca.): 50p (150 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 25p (100 Mbit/s / 60 Mbit/s), 3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (ca.): 60p (200 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS][FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 30p (140 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (100 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (ca.): 50p (200 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 25p (140 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S HD)",
+						"name": "newAlphaScreenMovieRecShd",
+						"value": [
+							"1.920 x 1.080 (4:2:0, 8 Bit, NTSC) (ca.): 120p (100 Mbit/s / 60 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS][FN|Wenn &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt ist, ist die Anzahl effektiver Pixel: 2.088 x 704 bei 120 oder 100 BpS.], 60p (50 Mbit/s / 25 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 30p (50 Mbit/s / 16 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 1.920 x 1.080 (4:2:0, 8 Bit, PAL) (ca.): 100p (100 Mbit/s / 60 Mbit/s)[FN|Wenn &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt ist, ist die Anzahl effektiver Pixel: 2.088 x 704 bei 120 oder 100 BpS.], 50p (50 Mbit/s / 25 Mbit/s), 25p (50 Mbit/s / 16 Mbit/s), 1.920 x 1.080 (4:2:2, 10 Bit, NTSC) (ca.): 60p (50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 30p (50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (50 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 1.920 x 1.080 (4:2:2, 10 Bit, PAL) (ca.): 50p (50 Mbit/s), 25p (50 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S-I 4K)",
+						"name": "newAlphaScreenMovieRecSi4K",
+						"value": [
+							"3.840 x 2.160 (4:2:2, 10 Bit, NTSC) (ca.): 60p (600 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS][FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 30p (300 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (240 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 3.840 x 2.160 (4:2:2, 10 Bit, PAL) (ca.): 50p (500 Mbit/s)[FN|Bei Videoaufnahmen mit 4K 60p/50p ist &#91;APS-C S35 Shooting&#93; auf &#91;Off&#93; gesetzt und gesperrt.], 25p (250 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "FILMAUFNAHME-SYSTEM (XAVC S-I HD)",
+						"name": "newAlphaScreenMovieRecSihd",
+						"value": [
+							"1.920 x 1.080 (4:2:2, 10 Bit, NTSC) (ca.): 60p (222 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 30p (111 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 24p (89 Mbit/s)[FN|120p: 119,88 BpS, 60p: 59,94 BpS, 30p: 29,97 BpS, 24p: 23,98 BpS], 1.920 x 1.080 (4:2:2, 10 Bit, PAL) (ca.): 50p (185 Mbit/s), 25p (93 Mbit/s)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": [
+							"NTSC-Modus: 1, 2, 4, 8, 15, 30, 60, 120 BpS[FN|Wenn &#91;Movie recording system&#93; &#91;XAVC HS 8k&#93; ist, ist S&Q nicht verfügbar.][FN|120/100 BpS ist mit den Dateiformaten &#91;XAVC HS 4K&#93;, &#91;XAVC S 4K&#93; und &#91;XAVC S-I 4K&#93; nicht verfügbar.][FN|Wenn &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt ist, ist die Anzahl effektiver Pixel: 2.088 x 704 bei 120 oder 100 BpS.], PAL-Modus: 1, 2, 3, 6, 12, 25, 50, 100 BpS[FN|Wenn &#91;Movie recording system&#93; &#91;XAVC HS 8k&#93; ist, ist S&Q nicht verfügbar.][FN|120/100 BpS ist mit den Dateiformaten &#91;XAVC HS 4K&#93;, &#91;XAVC S 4K&#93; und &#91;XAVC S-I 4K&#93; nicht verfügbar.][FN|Wenn &#91;APS-C S35 Shooting&#93; auf &#91;On&#93; gesetzt ist, ist die Anzahl effektiver Pixel: 2.088 x 704 bei 120 oder 100 BpS.]"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Audiopegelanzeige, Audioaufnahmefunktion, PAL/NTSC-Auswahl, Proxyaufnahme (1.280 x 720 (ca. 6 Mbit/s), 1.920 x 1.080 (ca. 9 Mbit/s), 1.920 x 1.080 (ca. 16 Mbit/s)), TC/UB, Auto Slow Shutter, Gamma Display Assist, RAW-Ausgabe (HDMI)"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 10,
+		"slug": "ilce-9m2",
+		"name": "ILCE-9M2",
+		"price": 5800,
+		"marketingProductName": "Alpha 9 II Vollbildkamera mit Profifunktionen",
+		"topFeatures": [
+			"Mehrschichtiger 35-Vollformat-CMOS-Sensor mit integriertem Speicher für äußerst schnelle Aufnahmen",
+			"Zuverlässiger AF und High-Speed-Serienaufnahmefunktion mit 20 Bildern pro Sekunde[FN|“Hi” Serienbildmodus. Bei kürzeren Verschlusszeiten als 1/125 Sek. Im AF-C-Modus hängt die maximale kontinuierliche Bildwiederholrate vom Aufnahmemodus und dem verwendeten Objektiv ab.] mit AF/AE-Tracking",
+			"Höhere Benutzerfreundlichkeit und Vernetzungsmöglichkeiten auf Profi-Niveau"
+		],
+		"image": { "src": "ilce-9m2.png", "alt": "ILCE-9M2" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["Ca. 24,2 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["Ca. 28,3 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["35 mm EXMOR® RS CMOS-Vollformatsensor (35,6 mm x 23,8 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Optischer Filter mit Beschichtung zum Schutz vor Aufladung und Bildsensor-Shift-Mechanismus"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": ["JPEG (DCF Version 2.0, Exif Version 2.31, MPF Baseline-kompatibel), RAW (Sony ARW 2.3 Format)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L: 6.000 x 4.000 (24 MP), M: 3.936 x 2.624 (10 MP), S: 3.008 x 2.000 (6,0 MP), APS-C L: 3.936 x 2.624 (10 MP), M: 3.008 x 2.000 (6,0 MP), S: 1.968 x 1.312 (2,6 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [4:3] ",
+						"name": "newAlphaImageSizePixels43",
+						"value": [
+							"35-mm-Vollformat L: 5.328 x 4.000 (21 MP), M: 3.488 x 2.624 (9,2 MP), S: 2.656 x 2.000 (5,3 MP) APS-C L: 3.488 x 2.624 (9,2 MP), M: 2.656 x 2.000 (5,3 MP), S: 1.744 x 1.312 (2,3 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 6.000 x 3.376 (20 MP), M: 3.936 x 2.216 (8,7 MP), S: 3.008 x 1.688 (5,1 MP), APS-C L: 3.936 x 2.216 (8,7 MP), M: 3.008 x 1.688 (5,1 MP), S: 1.968 x 1.112 (2,2 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [1:1] ",
+						"name": "newAlphaImageSizePixels11",
+						"value": [
+							"35-mm-Vollformat L: 4.000 x 4.000 (16 MP), M: 2.624 x 2.624 (6,9 MP), S: 2.000 x 2.000 (4,0 MP), APS-C L: 2.624 x 2.624 (6,9 MP), M: 2.000 x 2.000 (4,0 MP), S: 1.312 x 1.312 (1,7 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [Schwenkpanorama]",
+						"name": "newAlphaImageSizePixelsSweepPanorama",
+						"value": ["-"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": ["RAW, RAW & JPEG (Extra Fine, Fine, Standard), JPEG (Extra Fine, Fine, Standard)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffectMovie",
+						"value": [
+							"8 Arten: Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key, Rich-Tone-Mono"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyle",
+						"value": [
+							"Standard, Lebhaft, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbst, Schwarzweiß, Sepia, Style Box (1–6), (Kontrast (Stufen -3 bis +3), Sättigung (Stufen -3 bis +3), Schärfe (Stufen -5 bis +5))"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildprofil", "name": "newAlphaPictureProfileStillimage", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": [
+							"Aus, Dynamikbereichsoptimierung (Auto/Level (1-5)), Automatische High Dynamic Range-Funktion (Automatische Belichtungsunterschiede, Belichtungsunterschiede (Belichtungswert 1 - 6 in Schritten von 1,0))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": ["sRGB-Standard (mit sYCC-Gamut) und Adobe RGB-Standard, kompatibel mit TRILUMINOS Color"]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] },
+					{ "specType": "text", "displayName": "Unkomprimiertes RAW", "name": "newAlphaUncompressedRaw", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingMovieRecordingFormat",
+						"value": ["XAVC S, kompatibel mit AVCHD-Format Version 2.0"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": ["XAVC S: LPCM 2 Kanäle, AVCHD: Dolby® Digital (AC-3) 2 Kanäle, Dolby® Digital Stereo Creator"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": ["xvYCC Standard (x.v.Color bei Anschluss über ein HDMI Kabel) kompatibel mit TRILUMINOS Color"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffect",
+						"value": [
+							"Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyleMovies",
+						"value": [
+							"Standard, Lebhaft, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbst, Schwarzweiß, Sepia, Style Box (1–6), (Kontrast (Stufen -3 bis +3), Sättigung (Stufen -3 bis +3), Schärfe (Stufen -5 bis +5))"
+						]
+					},
+					{ "specType": "text", "displayName": "Bildprofil", "name": "newAlphaPictureProfile", "value": ["-"] },
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), NTSC",
+						"name": "newAlphaImageSizePixelsNtsc",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (30p, 100 Mbit/s), 3.840 x 2.160 (24p, 100 Mbit/s), 3.840 x 2.160 (30p, 60 Mbit/s), 3.840 x 2.160 (24p, 60 Mbit/s), XAVC S HD: 1.920 x 1.080 (120p, 100 Mbit/s), 1.920 x 1.080 (120p, 60 Mbit/s), 1.920 x 1.080 (60p, 50 Mbit/s), 1.920 x 1.080 (30p, 50 Mbit/s), 1.920 x 1.080 (24p, 50 Mbit/s), 1.920 x 1.080 (60p, 25 Mbit/s), 1.920 x 1.080 (30p, 16 Mbit/s), AVCHD:1.920 x 1.080 (60i, 24 Mbit/s, FX), 1.920 x 1.080 (60i, 17 Mbit/s, FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), PAL",
+						"name": "newAlphaImageSizepixelsPal",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (25p, 100 Mbit/s), 3.840 x 2.160 (25p, 60 Mbit/s), AVCHD: 1.920 x 1.080 (50i, 24 Mbit/s, FX), 1.920 x 1.080 (50i, 17 Mbit/s, FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": ["NTSC-Modus: 1, 2, 4, 8, 15, 30, 60, 120 Bilder pro Sekunde, PAL-Modus: 1, 2, 3, 6, 12, 25, 50, 100 Bilder pro Sekunde"]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFZEICHNUNG UND BILDGRÖSSE) ",
+						"name": "newAlphaImageSizeFrameRateBitRate",
+						"value": ["NTSC-Modus: 1.920 x 1.080 (60p, 30p, 24p), PAL-Modus: 1.920 x 1.080 (50p, 25p)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Audio Level Display, Audio-Aufnahmefunktion, Proxy-Aufnahmen (1280 x 720 (ca. 9 Mbit/s)), TC/UB, (TC-Voreinstellung, UB-Voreinstellung, TC-Format, TC-Ausführung, TC Make, UB-Aufnahmezeit), Auto Slow Shutter, Aufnahmesteuerung, HDMI Clean-Info (EIN/AUS wählbar)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "HDMI® Ausgang",
+						"name": "newAlphaHdmiOutput",
+						"value": [
+							"3.840 x 2.160 (25p), 1.920 x 1.080 (50p), 1.920 x 1.080 (50i), 1.920 x 1.080 (24p), 1.920 x 1.080 (60p), 1.920 x 1.080 (60i), 3.840 x 2.160 (30p), 3.840 x 2.160 (24p), YCbCr 4:2:2 8 Bit/RGB 8 Bit"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 11,
+		"slug": "ilce-7rm4",
+		"name": "ILCE-7RM4",
+		"price": 4500,
+		"marketingProductName": "α7R IV 35-mm-Vollformatkamera mit 61,0 MP",
+		"topFeatures": [
+			"Exmor R™ CMOS 35-mm-Vollformatsensor mit 61,0 MP[FN|Effektive Pixel (ungefähre Angabe).] und High-Speed-Bildprozessor",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde[FN|Im Serienaufnahmemodus „Hi+“ und bis zu 8 Bilder pro Sekunde im Serienaufnahmemodus „Hi“. Die maximale Anzahl an Bildern pro Sekunde hängt von den Kameraeinstellungen ab.]",
+			"Komfort und Zuverlässigkeit für anspruchsvolle Profis"
+		],
+		"image": { "src": "ilce-7rm4.png", "alt": "ILCE-7RM4" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["ca. 61,0 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["Ca. 62,5 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["Exmor R CMOS 35-mm-Vollformatsensor (35,7 x 23,8 mm)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Optischer Filter mit Beschichtung zum Schutz vor Aufladung und Bildsensor-Shift-Mechanismus"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": ["JPEG (DCF Version 2.0, Exif Version 2.31, MPF Baseline-kompatibel), RAW (Sony ARW 2.3 Format)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L: 9.504 x 6.336 (60 MP), M: 6.240 x 4.160 (26 MP), S: 4.752 x 3.168 (15 MP), APS-C L: 6.240 x 4.160 (26 MP), M: 4.752 x 3.168 (15 MP), S: 3.120 x 2.080 (6,5 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [4:3] ",
+						"name": "newAlphaImageSizePixels43",
+						"value": [
+							"35-mm-Vollformat L: 8.448 x 6.336 (54 MP), M: 5.552 x 4.160 (23 MP), S: 4.224 x 3.168 (13 MP), APS-C L: 5.552 x 4.160 (23 MP), M: 4.224 x 3.168 (13 MP), S: 2.768 x 2.080 (5,8 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 9.504 x 5.344 (51 MP), M: 6.240 x 3.512 (22 MP), S: 4.752 x 2.672 (13 MP), APS-C L: 6.240 x 3.512 (22 MP), M: 4.752 x 2.672 (13 MP), S: 3.120 x 1.752 (5,5 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "BILDGRÖSSE (PIXEL) [1:1] ",
+						"name": "newAlphaImageSizePixels11",
+						"value": [
+							"35-mm-Vollformat L: 6.336 x 6.336 (40 MP), M: 4.160 x 4.160 (17 MP), S: 3.168 x 3.168 (10 MP), APS-C L: 4.160 x 4.160 (17 MP), M: 3.168 x 3.168 (10 MP), S: 2.080 x 2.080 (4,3 MP)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [Schwenkpanorama]",
+						"name": "newAlphaImageSizePixelsSweepPanorama",
+						"value": ["-"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": ["RAW, RAW und JPEG (Extra Fine, Fine, Standard), JPEG (Extra Fine, Fine, Standard)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffectMovie",
+						"value": [
+							"Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyle",
+						"value": [
+							"Standard, Lebendig, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbst, Schwarzweiß, Sepia, Style Box (1-6), (Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -5 bis +5))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": ["Aus, Optimierer für den Dynamikumfang (Auto/Pegel (1–5))"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": ["sRGB-Standard (mit sYCC-Gamut) und Adobe RGB-Standard, kompatibel mit TRILUMINOS Color"]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] },
+					{ "specType": "text", "displayName": "Unkomprimiertes RAW", "name": "newAlphaUncompressedRaw", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingMovieRecordingFormat",
+						"value": ["XAVC S, kompatibel mit AVCHD-Format Version 2.0"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": ["XAVC S: LPCM 2 Kanäle, AVCHD: Dolby® Digital (AC-3) 2 Kanäle, Dolby® Digital Stereo Creator"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": ["xvYCC Standard (x.v.Color bei Anschluss über ein HDMI Kabel) kompatibel mit TRILUMINOS Color"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffect",
+						"value": [
+							"7 Typen: Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyleMovies",
+						"value": [
+							"Standard, Lebendig, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbst, Schwarzweiß, Sepia, Style Box (1-6), (Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -5 bis +5))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), NTSC",
+						"name": "newAlphaImageSizePixelsNtsc",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (30p, 100 Mbit/s), 3.840 x 2.160 (24p, 100 Mbit/s), 3.840 x 2.160 (30p, 60 Mbit/s), 3.840 x 2.160 (24p, 60 Mbit/s), XAVC S HD: 1.920 x 1.080 (120p, 100 Mbit/s), 1.920 x 1.080 (120p, 60 Mbit/s), 1.920 x 1.080 (60p, 50 Mbit/s), 1.920 x 1.080 (30p, 50 Mbit/s), 1.920 x 1.080 (24p, 50 Mbit/s), 1.920 x 1.080 (60p, 25 Mbit/s), 1.920 x 1.080 (30p, 16 Mbit/s), AVCHD: 1.920 x 1.080 (60i, 24 Mbit/s, FX), 1.920 x 1.080 (60i, 17 Mbit/s, FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), PAL",
+						"name": "newAlphaImageSizepixelsPal",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (25p, 100 Mbit/s), 3.840 x 2.160 (25p, 60 Mbit/s), XAVC S HD: 1.920 x 1.080 (100p, 100 Mbit/s), 1.920 x 1.080 (100p, 60 Mbit/s), 1.920 x 1.080 (50p, 50 Mbit/s), 1.920 x 1.080 (25p, 50 Mbit/s), 1.920 x 1.080 (50p, 25 Mbit/s), 1.920 x 1.080 (25p, 16 Mbit/s), AVCHD: 1.920 x 1.080 (50i, 24 Mbit/s, FX), 1.920 x 1.080 (50i, 17 Mbit/s, FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": ["NTSC-Modus: 1, 2, 4, 8, 15, 30, 60, 120 Bilder pro Sekunde, PAL-Modus: 1, 2, 3, 6, 12, 25, 50, 100 Bilder pro Sekunde"]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFZEICHNUNG UND BILDGRÖSSE) ",
+						"name": "newAlphaImageSizeFrameRateBitRate",
+						"value": ["NTSC-Modus: 1.920 x 1.080 (60p, 30p, 24p), PAL-Modus: 1.920 x 1.080 (50p, 25p)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Audiopegelanzeige, Audio-Aufnahmefunktion, PAL/NTSC-Auswahlassistent, Proxy-Aufnahmen (1280 x 720 (ca. 9 Mbit/s)), TC/UB, (TC-Voreinstellung, UB-Voreinstellung, TC-Format, TC-Ausführung, TC Make, UB-Aufnahmezeit), Auto Slow Shutter, Aufnahmesteuerung, HDMI Clean-Info. (Ein/Aus wählbar), Gamma Display Assist"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "HDMI® Ausgang",
+						"name": "newAlphaHdmiOutput",
+						"value": [
+							"3840 x 2160 (25p), 1920 x 1080 (50p), 1920 x 1080 (50i), 1920 x 1080 (24p), 1920 x 1080 (60p), 1920 x 1080 (60i), 3840 x 2160 (30p), 3840 x 2160 (24p), YCbCr 4:2:2 8 Bit/RGB 8 Bit"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 12,
+		"slug": "ilce-7rm3a",
+		"name": "ILCE-7RM3A",
+		"price": 2500,
+		"marketingProductName": "Alpha 7R III mit 35-mm-Vollformat-Bildsensor",
+		"topFeatures": [
+			"Exmor R™ CMOS 35-mm-Vollformatsensor mit 42,4 MP[FN|Anzahl effektiver Pixel (ungefähre Angabe).] und fortschrittlicher Bildverarbeitung",
+			"Fantastische Autofokusleistung und Serienaufnahmen mit 10 Bildern pro Sekunde",
+			"Bedienkomfort und zuverlässige, professionelle Arbeitsweise"
+		],
+		"image": { "src": "ilce-7rm3a.png", "alt": "ILCE-7RM3A" },
+		"specs": [
+			{
+				"name": "Bildsensor",
+				"specs": [
+					{ "specType": "text", "displayName": "Bildseitenverhältnis", "name": "newAlphaAspectRatio", "value": ["3:2"] },
+					{
+						"specType": "text",
+						"displayName": "Anzahl der Pixel (effektiv)",
+						"name": "aAlphaLensesEffectivePixels",
+						"value": ["Ca. 42,4 Megapixel"]
+					},
+					{ "specType": "text", "displayName": "Anzahl der Pixel (gesamt)", "name": "newAlphaNumberOfPixelsTotal", "value": ["ca. 43,6 Megapixel"] },
+					{
+						"specType": "text",
+						"displayName": "Sensortyp",
+						"name": "aAlphaLensesLensType",
+						"value": ["35-mm-Vollformat (35,9 × 24,0 mm), ExmorR CMOS-Sensor"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Anti-Staubsystem",
+						"name": "newAlphaAntiDustSystem",
+						"value": ["Optischer Filter mit Beschichtung zum Schutz vor Aufladung und Bildsensor-Shift-Mechanismus"]
+					}
+				]
+			},
+			{
+				"name": "Aufnahme (Foto)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingFormat",
+						"value": ["JPEG (DCF Version 2.0, Exif Version 2.31, MPF Baseline-kompatibel), RAW (Sony ARW 2.3 Format)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [3:2]",
+						"name": "newAlphaImageSizePixels32",
+						"value": [
+							"35-mm-Vollformat L: 7.952 x 5.304 (42 Mio.), M: 5.168 x 3.448 (18 Mio.), S: 3.984 x 2.656 (11 Mio.)",
+							"APS-C L: 5.168 x 3.448 (18 Mio.), M: 3.984 x 2.656 (11 Mio.), S: 2.592 x 1.728 (4,5 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel) [16:9]",
+						"name": "newAlphaImageSizePixels169",
+						"value": [
+							"35-mm-Vollformat L: 7.952 x 4.472 (36 Mio.), M: 5.168 x 2.912 (15 Mio.), S: 3.984 x 2.240 (8,9 Mio.)",
+							"APS-C L: 5.168 x 2.912 (15 Mio.), M: 3.984 x 2.240 (8,9 Mio.), S: 2.592 x 1.456 (3,8 Mio.)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildqualitätsmodi",
+						"name": "newAlphaImageQualityModes",
+						"value": ["RAW, RAW & JPEG (Extra Fine, Fine, Standard), JPEG (Extra Fine, Fine, Standard)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffectMovie",
+						"value": [
+							"8 Arten: Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key, Rich-Tone-Mono"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyle",
+						"value": [
+							"Standard, Lebhaft, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbstlaub, Schwarzweiß, Sepia, Style Box (1–6),",
+							"(Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -3 bis +3))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfileStillimage",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Funktionen des Dynamikbereichs",
+						"name": "newAlphaDynamicRangeFunctions",
+						"value": [
+							"Aus, Dynamikbereichsoptimierung (Auto/Level (1-5)), Automatische High Dynamic Range-Funktion (Automatische Belichtungsunterschiede, Belichtungsunterschiede (Belichtungswert 1 - 6 in Schritten von 1,0))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpace",
+						"value": ["sRGB-Standard (mit sYCC-Gamut) und Adobe RGB-Standard, kompatibel mit TRILUMINOS Color"]
+					},
+					{ "specType": "text", "displayName": "14bit RAW", "name": "newAlphaRawOutput", "value": ["Ja"] },
+					{ "specType": "text", "displayName": "Unkomprimiertes RAW", "name": "newAlphaUncompressedRaw", "value": ["Ja"] }
+				]
+			},
+			{
+				"name": "Aufnahme (Video)",
+				"specs": [
+					{
+						"specType": "text",
+						"displayName": "Aufnahmeformat",
+						"name": "newAlphaRecordingMovieRecordingFormat",
+						"value": ["XAVC S: AVCHD-Format Vers. 2.0 kompatibel"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videokomprimierung",
+						"name": "newAlphaVideoCompression",
+						"value": ["XAVC S: MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Audioaufnahmeformat",
+						"name": "newAlphaAudioRecordingFormat",
+						"value": ["XAVC S: LPCM, 2 Kanäle", "AVCHD: Dolby® Digital (AC-3) 2 Kanäle, Dolby® Digital Stereo Creator"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Farbumfang",
+						"name": "newAlphaColourSpaceMovie",
+						"value": ["xvYCC Standard (x.v.Color bei Anschluss über ein HDMI Kabel) kompatibel mit TRILUMINOS Color"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildeffekte",
+						"name": "newAlphaPictureEffect",
+						"value": [
+							"Poster (Farbe), Poster (S/W), Pop Color, Retro, Teilfarbe (R/G/B/Y), Hochkontrast-Mono, Spielzeugkamera (Normal/Kalt/Warm/Grün/Magenta), Soft High Key"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Kreatives Design",
+						"name": "newAlphaCreativeStyleMovies",
+						"value": [
+							"Standard, Lebhaft, Neutral, Clear, Deep, Light, Porträt, Landschaft, Sonnenuntergang, Nachtaufnahme, Herbstlaub, Schwarzweiß, Sepia, Style Box (1–6),",
+							"(Kontrast (Schritte von -3 bis +3), Sättigung (Schritte von -3 bis +3), Schärfe (Schritte von -3 bis +3))"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildprofil",
+						"name": "newAlphaPictureProfile",
+						"value": [
+							"Ja (Aus/PP1-PP10) Parameter: Schwarzpegel, Gamma (Film, Foto, Cine1–4, ITU709, ITU709 [800 %], S-Log2, S-Log3, HLG, HLG1–3), Schwarzgamma, Knie, Farbmodus, Sättigung, Farbphase, Farbtiefe, Details, Kopieren, Zurücksetzen"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), NTSC",
+						"name": "newAlphaImageSizePixelsNtsc",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (30p, 100 Mbit/s), 3.840 x 2.160 (24p, 100 Mbit/s), 3.840 x 2.160 (30p, 60 Mbit/s), 3.840 x 2.160 (24p, 60 Mbit/s) XAVC S HD: 1.920 x 1.080 (120p, 100 Mbit/s), 1.920 x 1.080 (120p, 60 Mbit/s), 1.920 x 1.080 (60p, 50 Mbit/s), 1.920 x 1.080 (30p, 50 Mbit/s), 1.920 x 1.080 (24p, 50 Mbit/s), 1.920 x 1.080 (60p, 25 Mbit/s), 1.920 x 1.080 (30p, 16 Mbit/s) AVCHD: 1.920 x 1.080 (60i, 24 Mio., FX), 1.920 x 1.080 (60i, 17 Mio., FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "Bildgröße (Pixel), PAL",
+						"name": "newAlphaImageSizepixelsPal",
+						"value": [
+							"XAVC S 4K: 3.840 x 2.160 (25p, 100 Mbit/s), 3.840 x 2.160 (25p, 60 Mbit/s) XAVC S HD: 1.920 x 1.080 (100p, 100 Mio.), 1.920 x 1.080 (100p, 60 Mio.), 1.920 x 1.080 (50p, 50 Mio.), 1.920 x 1.080 (25p, 50 Mio.), 1.920 x 1.080 (50p, 25 Mio.), 1.920 x 1.080 (25p, 16 Mio.) AVCHD: 1.920 x 1.080 (50i, 24M, FX), 1.920 x 1.080 (50i, 17M, FH)"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFNAHME) ",
+						"name": "newAlphaImageFrameRate",
+						"value": ["NTSC-Modus:", "1, 2, 4, 8, 15, 30, 60, 120 Bilder pro Sekunde", "PAL-Modus:", "1, 2, 3, 6, 12, 25, 50, 100 Bilder pro Sekunde"]
+					},
+					{
+						"specType": "text",
+						"displayName": "ZEITLUPE UND ZEITRAFFER (BILDWIEDERHOLRATE AUFZEICHNUNG UND BILDGRÖSSE) ",
+						"name": "newAlphaImageSizeFrameRateBitRate",
+						"value": ["NTSC-Modus: 1.920 x 1.080 (60p, 30p, 24p)", "PAL-Modus: 1.920 x 1.080 (50p, 25p)"]
+					},
+					{
+						"specType": "text",
+						"displayName": "Videofunktionen",
+						"name": "newAlphaMovieFunctions",
+						"value": [
+							"Anzeige des Audiopegels",
+							"Audio-Aufnahmefunktion",
+							"PAL/NTSC-Auswahlassistent",
+							"Ja (1.280 x 720 (ca. 9 Mbit/s))",
+							"TC/UB",
+							"(TC Preset/UB Preset/TC Format/TC Run/TC Make/UB Time Rec)",
+							"Auto Slow Shutter",
+							"REC-Steuerung",
+							"HDMI Clean-Info (EIN/AUS wählbar)",
+							"Gamma Display Assist"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "HDMI® Ausgang",
+						"name": "newAlphaHdmiOutput",
+						"value": [
+							"3.840 x 2.160 (25p)",
+							"1.920 x 1.080 (50p)",
+							"1.920 x 1.080 (50i)",
+							"1.920 x 1.080 (24p)",
+							"1.920 x 1.080 (60p)",
+							"1.920 x 1.080 (60i)",
+							"3.840 x 2.160 (30p)",
+							"3.840 x 2.160 (24p),",
+							"YCbCr 4:2:2 8 Bit/RGB 8 Bit"
+						]
+					},
+					{
+						"specType": "text",
+						"displayName": "HDMI Clean Ausgang",
+						"name": "newAlphaCleanHdmiOutput",
+						"value": [
+							"3.840 x 2.160 (25p), 1.920 x 1.080 (50p), 1.920 x 1.080 (50i), 1.920 x 1.080 (24p), 1.920 x 1.080 (60p), 1.920 x 1.080 (60i), 3.840 x 2.160 (30p), 3.840 x 2.160 (24p), YCbCr 4:2:2 8 Bit/RGB 8 Bit"
+						]
+					}
+				]
+			}
+		]
+	}
+]

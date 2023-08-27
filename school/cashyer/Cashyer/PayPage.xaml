@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cashyer.PayPage"
+             Title="Pay"
+             >
+	<Grid>
+		<Image Source="home_background.png" Aspect="AspectFill" />
+
+		<ScrollView>
+			<VerticalStackLayout Margin="20, 20">
+				<Frame BackgroundColor="White" HeightRequest="230" WidthRequest="370" CornerRadius="20" BorderColor="#00000000" IsClippedToBounds="True">
+
+					<AbsoluteLayout>
+						<VerticalStackLayout VerticalOptions="Center" AbsoluteLayout.LayoutBounds="60, 65">
+							<Label Text="Total Balance" TextColor="Black" FontSize="Medium" />
+							<HorizontalStackLayout>
+								<Label Text="5'000" TextColor="Black"  FontFamily="JetBrainsMonoSemiBold" FontSize="30" />
+								<Label Text="CHF" TextColor="Black"  FontFamily="JetBrainsMonoSemiBold"  />
+							</HorizontalStackLayout>
+						</VerticalStackLayout>
+
+						<Label Text="Joel Scheffmann" AbsoluteLayout.LayoutBounds="200, 40" FontFamily="InterMedium" Rotation="-90" />
+
+						<Image Source="mastercard.png" AbsoluteLayout.LayoutBounds="200, 0" Rotation="-90" />
+
+						<Frame BackgroundColor="Black" WidthRequest="250" HeightRequest="70" CornerRadius="0" AbsoluteLayout.LayoutBounds="190, 70" BorderColor="#00000000" Rotation="-90">
+							<FlexLayout JustifyContent="End">
+								<Label Text="**** 0004" TextColor="White" FontFamily="JetBrainsMonoSemiBold" FontSize="20" />
+							</FlexLayout>
+						</Frame>
+					</AbsoluteLayout>
+
+				</Frame>
+
+				<VerticalStackLayout HorizontalOptions="Center" Margin="0, 30">
+					<Label Text="Amount to Pay" TextColor="White" FontSize="Medium" />
+					<HorizontalStackLayout>
+						<Label Text="0" TextColor="White"  FontFamily="JetBrainsMonoSemiBold" FontSize="30" x:Name="_displayLabel" />
+						<Label Text="CHF" TextColor="White"  FontFamily="JetBrainsMonoSemiBold"  />
+					</HorizontalStackLayout>
+
+				</VerticalStackLayout>
+
+				<Frame>
+					<VerticalStackLayout Spacing="10">
+
+						<Entry Placeholder="Message" />
+
+						<Stepper Minimum="0" Maximum="5000" Increment="10" ValueChanged="OnStepperValueChanged" />
+						
+						<Button Text="Confirm" BackgroundColor="Black" />
+
+					</VerticalStackLayout>
+				</Frame>
+
+
+
+			</VerticalStackLayout>
+		</ScrollView>
+	</Grid>
+</ContentPage>

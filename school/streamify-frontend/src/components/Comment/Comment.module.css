@@ -1,0 +1,34 @@
+.comment {
+	display: flex;
+	flex-direction: row;
+	gap: 1rem;
+
+	width: 100%;
+
+	padding: 1rem 0;
+}
+
+.commentContent {
+	display: flex;
+	flex-direction: column;
+
+	width: 100%;
+
+	gap: 1rem;
+}
+
+.commentContent > div > h3 {
+	margin-bottom: 0.5rem;
+}
+
+.commentContent > div > p {
+	white-space: pre-line;
+}
+
+.commentData {
+	width: 100%;
+
+	padding-top: 0.5rem;
+
+	border-top: 1px solid #e2e2e2;
+}
