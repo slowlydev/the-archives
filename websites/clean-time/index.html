@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+
+	<!-- title and description -->
+	<title>Clean Time</title>
+	<meta name="Description" content="A Clean looking website with a clock and an little weather app.">
+
+	<!-- link icon/splash -->
+	<link rel="icon" type="image/png" href="/resources/icon/favicon.png">
+	<link rel="apple-touch-icon" href="/resources/icon/favicon.png">
+	<link rel="apple-touch-startup-image" href="/resources/launch/splash.png">
+
+	<!-- set PWA title -->
+	<meta name="apple-mobile-web-app-title" content="Clean Time">
+
+	<!-- enable PWA -->
+	<meta name="theme-color" content="#222" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+
+	<!-- Dark / Light Mode stylesheet -->
+	<link rel="stylesheet" href="/resources/css/style.css" media="(prefers-color-scheme: dark)">
+	<link rel="stylesheet" href="/resources/css/light.css"
+		media="(prefers-color-scheme: no-preference), (prefers-color-scheme: light)">
+
+	<!-- The main stylesheet -->
+	<link rel="stylesheet" href="/resources/css/style.css">
+
+	<!-- preconnect -->
+	<link rel="preconnect" href="https://openweathermap.org">
+	<link rel="preconnect" href="https://www.googletagmanager.com">
+	<link rel="preconnect" href="https://www.google-analytics.com">
+	<link rel="preconnect" href="https://firebaseinstallations.googleapis.com">
+</head>
+
+<body>
+	<div class="container">
+		<div class="time">
+			<h1 class="row" id="html_time"></h1>
+			<h2 class="row" id="html_date"></h2>
+		</div>
+		<button id="button" onclick="getGeolocation()">Geolocation for Weather</button>
+		<div class="row">
+			<div class="column">
+				<img align="middle" style="display:none;" id="weather_icon_today" alt="Weather Icon" />
+				<h3 id="today" style="display:none;">Today</h3>
+				<p id="weather_temp_today_max"></p>
+				<p id="weather_temp_today_min"></p>
+			</div>
+			<div class="column">
+				<img align="middle" style="display:none;" id="weather_icon_tomorrow" alt="Weather Icon" />
+				<h3 id="tomorrow" style="display:none;">Tomorrow</h3>
+				<p id="weather_temp_tomorrow_max"></p>
+				<p id="weather_temp_tomorrow_min"></p>
+			</div>
+		</div>
+	</div>
+</body>
+
+<!-- link js files -->
+<script type="text/javascript" src="/resources/js/main.js"></script>
+<script type="text/javascript" src="/resources/js/style.js"></script>
+
+<!-- Firebase -->
+<script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-analytics.js"></script>
+<script src="/resources/js/firebase.js"></script>
+
+</html>

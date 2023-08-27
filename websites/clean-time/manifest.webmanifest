@@ -1,0 +1,22 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "Clean Time",
+	"scope" : "/",
+	"display" : "standalone",
+	"start_url" : "https://clean-time.now.sh/",
+	"short_name" : "Clean Time",
+	"theme_color" : "#222",
+	"description" : "Clean Website for time and Weather",
+	"orientation" : "any",
+	"background_color" : "#222",
+	"related_applications" : "",
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "https://clean-time.now.sh/resources/icon/favicon.png",
+			"sizes": "900x900"
+		}],
+	"screenshots" : [],
+	"generated" : "true"
+}
