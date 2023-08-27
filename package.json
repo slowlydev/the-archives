@@ -1,0 +1,10 @@
+{
+	"name": "the-archives",
+	"version": "0.0.1",
+	"workspaces": [
+		"manager"
+	],
+	"scripts": {
+		"start": "cd ./manager && bun start"
+	}
+}
