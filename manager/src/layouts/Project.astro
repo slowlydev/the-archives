@@ -31,9 +31,11 @@ const archiveRepo = `https://github.com/Slowlydev/the-archives/tree/main/${colle
 			</div>
 		</div>
 
-		<article>
-			<slot />
-		</article>
+		<div class="w-full flex flex-col items-center">
+			<article class="max-w-xl">
+				<slot />
+			</article>
+		</div>
 	</main>
 </Layout>
 
