@@ -19,14 +19,14 @@ Its a website documenting all projects that have been archived. Some contain mor
 
 ### how to start the manager
 
-You will need [bun](https://bun.sh) installed.
+You will need yarn installed.
 
 ```bash
 # install all deps
-bun i
+cd ./manager && yarn
 
 # start the manager on port 3000
-bun start
+yarn start
 ```
 
 for more commands run `cd /manager` and there u have more commands available. To see them all checkout `manager/package.json`.
